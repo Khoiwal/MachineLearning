@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-interest = {}
+arm = {}
 #parses input file into a tree object
 soup = BeautifulSoup(open("./EnglishLS.test"))
 
@@ -15,44 +15,44 @@ def getSense(insid):
 
 lexitems = soup.find_all('lexelt')
 for lexitem in lexitems:
-    if lexitem['item'] == "interest.n":
+    if lexitem['item'] == "arm.n":
         instances = lexitem.find_all('instance')
         for instance in instances:
-            interest[instance['id']] = [None]*8
-            #interest[instance['id']][7] = instance.answer['senseid']
-            interest[instance['id']][7] = getSense(instance['id'])
+            arm[instance['id']] = [None]*8
+            #arm[instance['id']][7] = instance.answer['senseid']
+            arm[instance['id']][7] = getSense(instance['id'])
             texts = instance.context
             for text in texts:
                 words = text.lower().split()
                 count = 0
                 while(count < len(words)):
                                     
-                    if words[count] == 'interest' or words[count] == 'interests':
-                        interest[instance['id']][0] = words[count-2] 
-                        interest[instance['id']][1] = words[count-1]
-                        interest[instance['id']][4] = words[count-2] + '_' + words[count-1]
+                    if words[count] == 'arm' or words[count] == 'arms':
+                        arm[instance['id']][0] = words[count-2] 
+                        arm[instance['id']][1] = words[count-1]
+                        arm[instance['id']][4] = words[count-2] + '_' + words[count-1]
                         if (len(words) - count) >= 3:
-                            interest[instance['id']][2] = words[count+1]
-                            interest[instance['id']][3] = words[count+2]
-                            interest[instance['id']][5] = words[count-1] + '_' + words[count+1]
-                            interest[instance['id']][6] = words[count+1] + '_' + words[count+2]
+                            arm[instance['id']][2] = words[count+1]
+                            arm[instance['id']][3] = words[count+2]
+                            arm[instance['id']][5] = words[count-1] + '_' + words[count+1]
+                            arm[instance['id']][6] = words[count+1] + '_' + words[count+2]
                         elif (len(words) - count) == 2:   
-                            interest[instance['id']][2] = words[count+1]
-                            interest[instance['id']][3] = ''
-                            interest[instance['id']][5] = words[count-1] + '_' + words[count+1]
-                            interest[instance['id']][6] = words[count+1] + '_' + ''
+                            arm[instance['id']][2] = words[count+1]
+                            arm[instance['id']][3] = ''
+                            arm[instance['id']][5] = words[count-1] + '_' + words[count+1]
+                            arm[instance['id']][6] = words[count+1] + '_' + ''
                         else:
-                            interest[instance['id']][2] = ''
-                            interest[instance['id']][3] = ''
-                            interest[instance['id']][5] = words[count-1] + '_' + ''
-                            interest[instance['id']][6] = '' + '_' + ''
+                            arm[instance['id']][2] = ''
+                            arm[instance['id']][3] = ''
+                            arm[instance['id']][5] = words[count-1] + '_' + ''
+                            arm[instance['id']][6] = '' + '_' + ''
 
                     count += 1
 
-with open("interest.test.txt" , "w") as out:
-    for contexts in interest:
-        for context in interest[contexts]:
-            out.write(context+'\t')
+with open("arm.test.txt" , "w") as out:
+    for contexts in arm:
+        for context in arm[contexts]:
+            out.write(str(context)+'\t')
         out.write('\n')   
 
 	
