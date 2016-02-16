@@ -1,3 +1,15 @@
+###########################################################################################
+#This script collects sense information from a set of test data                           #
+#it has a built in basic XML parser to avoid reading the entire data set into memory      # 
+#the available xml parser for python also made extracting multiple instances of the same  #
+#head in a single context difficult due to the nature of the created object               #
+#                                                                                         #
+#it's ugl, but I need to use it for future assignments so I'm storing it for now          #
+#-Zac Branson 02/16/2016                                                                  #
+#where theis script is the same as newtrain.py, the documentation is not repeated here    #
+###########################################################################################
+
+
 parsing = False
 instance = False
 context = False
@@ -5,7 +17,7 @@ features = [[]]
 sublist = []
 outlist = [[]]
 
-#function which return sense from test key
+#function which return sense from a test key file
 def getSense(insid):
     with open('EnglishLS.test.key', 'r') as test:
         data = test.readlines()

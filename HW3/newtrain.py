@@ -1,8 +1,22 @@
+###########################################################################################
+#This script collects sense information from a set of training data                       #
+#it has a built in basic XML parser to avoid reading the entire data set into memory      # 
+#the available xml parser for python also made extracting multiple instances of the same  #
+#head in a single context difficult due to the nature of the created object               #
+#                                                                                         #
+#it's ugl, but I need to use it for future assignments so I'm storing it for now          #
+#-Zac Branson 02/16/2016                                                                  #
+###########################################################################################
+
+#flags for parsing lines as they come in
 parsing = False
 instance = False
 context = False
+# feature matrix which collects all senseid, instanceid, and words in context
 features = [[]]
+#list of senseid, instanceid, and words in context
 sublist = []
+#basically a sorted version of features for easy writing to file
 outlist = [[]]
 
 
@@ -15,29 +29,35 @@ for line in open('EnglishLS.train', 'r'):
     elif line.startswith("</lexelt>"):
         parsing = False
     if parsing:
-        #adds instance id as first entry in list
+        #adds instance id as first entry in list and triggers instance flag
         if line.startswith("<instance id="):
             instance = True
             subline = line[14:32]
             #print(subline)
             sublist.append(subline)
-         
+        # closes the current instance, appends instance sublist of id, words, and sense to features list 
         elif line.startswith("</instance>"):
             instance = False
-            features.append(sublist)
-            sublist = []
+            #appends sublist to features matrix
+            if sublist:
+                features.append(sublist)
+                sublist = []
+        # if we are in an instance, collects sense id
         if instance:
             if line.startswith("<answer"):
-	
+	        # this part has to be hardcoded depending on the length of the word.tag combination
+                # could be fixed in future version with a boolean flag to turn colletion of characters
+                # on and off
                 senseid = line[-17:-4]
+                # if senseid is unknown in training it's labeled 'U'
                 if senseid[-1] == 'U':
                     senseid = 'U'
                 sublist.append(senseid)
                 print(senseid)
-            #gets context, puts into string and appends to appropriate list item by instance id
+            #appends words from context to list by instance id
             if line.startswith("<context>"):
                 context = True
-                #initializes words as an empty list here so it resets when on a new context
+                
             elif line.startswith("</context>"):
                 context = False
 
@@ -46,9 +66,11 @@ for line in open('EnglishLS.train', 'r'):
                 for word in words:
                     sublist.append(word)                  
                     
-                
+#this collects words, senseid, and instnace id into the appropriate format for timbl
+#takes from features matrix and puts into outlist matrix              
 for l in features:
-    
+    # checks for empty lists and ignores them.  this should be functionalized or included when
+    #appending list to features. update: included above now so redundant  
     if l:
         count = -1
         for word in l:
@@ -56,6 +78,7 @@ for l in features:
             #print('xxxxxxxx')
             contexts = [None]*8
             count += 1
+            #triggers collection of nearby words if current word is tagged as an instance
             if word.startswith("<head>"):
                 #print('yyyyyyyyy')
                 #print(l[count])
@@ -79,10 +102,10 @@ for l in features:
                     contexts[6] = '' + '_' + '' 
                 contexts[7] = l[1]
                 outlist.append(contexts)
-                for item in contexts:
-                    print(item)     
+                #for item in contexts:
+                    #print(item)     
 
-
+#writes to a tsv for TIMBL input
 with open('arm.train.txt', 'w') as out: 
     for lis in outlist:
         for item in lis:
