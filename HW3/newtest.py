@@ -12,12 +12,13 @@ def getSense(insid):
         for line in data:
             line = line.split()
             if line[1] == insid:
+                print(line[2])
                 return(line[2])
 
 for line in open('EnglishLS.test', 'r'):
     
     #checks for correct lexical item before parsing lines
-    if line.startswith("<lexelt item=\"difficulty.n\">"):
+    if line.startswith("<lexelt item=\"interest.n\">"):
         parsing = True
     elif line.startswith("</lexelt>"):
         parsing = False
@@ -25,22 +26,25 @@ for line in open('EnglishLS.test', 'r'):
         #adds instance id as first entry in list
         if line.startswith("<instance id="):
             instance = True
-            subline = line[14:32]
-            #print(subline)
+            subline = line[14:37]
+            print(subline)
             sublist.append(subline)
+            senseid = getSense(subline)
+            if not senseid:
+                senseid = 'U'
+            else:
+                if senseid[-1] == 'U':
+                    senseid = 'U'
+            sublist.append(senseid)
+            #print(senseid)
          
         elif line.startswith("</instance>"):
             instance = False
             features.append(sublist)
             sublist = []
         if instance:
-            if line.startswith("<answer"):
-	
-                senseid = getSense(subline)
-                if senseid[-1] == 'U':
-                    senseid = 'U'
-                sublist.append(senseid)
-                print(senseid)
+
+
             #gets context, puts into string and appends to appropriate list item by instance id
             if line.startswith("<context>"):
                 context = True
@@ -84,13 +88,13 @@ for l in features:
                     contexts[3] = ''
                     contexts[5] = l[count-1] + '_' + ''
                     contexts[6] = '' + '_' + '' 
-                contexts[7] = l[0]
+                contexts[7] = l[1]
                 outlist.append(contexts)
                 for item in contexts:
                     print(item)     
 
 
-with open('difficulty.newtest.txt', 'w') as out: 
+with open('interest.newtest.txt', 'w') as out: 
     for lis in outlist:
         for item in lis:
             out.write(str(item)+'\t')

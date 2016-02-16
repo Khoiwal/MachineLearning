@@ -10,7 +10,7 @@ outlist = [[]]
 for line in open('EnglishLS.train', 'r'):
     
     #checks for correct lexical item before parsing lines
-    if line.startswith("<lexelt item=\"interest.n\">"):
+    if line.startswith("<lexelt item=\"arm.n\">"):
         parsing = True
     elif line.startswith("</lexelt>"):
         parsing = False
@@ -77,13 +77,13 @@ for l in features:
                     contexts[3] = ''
                     contexts[5] = l[count-1] + '_' + ''
                     contexts[6] = '' + '_' + '' 
-                contexts[7] = l[0]
+                contexts[7] = l[1]
                 outlist.append(contexts)
                 for item in contexts:
                     print(item)     
 
 
-with open('interest.train.txt', 'w') as out: 
+with open('arm.train.txt', 'w') as out: 
     for lis in outlist:
         for item in lis:
             out.write(str(item)+'\t')
