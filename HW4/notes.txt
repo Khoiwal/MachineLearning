@@ -1,0 +1,1 @@
+extract context words for binary feature, whether or not word appears
