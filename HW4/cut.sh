@@ -1,8 +1,7 @@
-for f in arm.newtrain.txt interest.newtrain.txt difficulty.newtrain.txt 
+for f in arm.test.txt interest.test.txt difficulty.test.txt 
 do
  echo "Processing $f"
- # cut features and class
- # note: update ranges after new context feature vector is added
- cut -f 1-7 $f > $f.features.txt
- cut -f 8 $f > $f.classes.txt
+ # cut features class
+ cut -f 1-7 $f > features.$f
+ cut -f 8 $f > classes.$f
 done
