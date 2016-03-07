@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ###########################################################################################
 #This script collects sense information from a set of training data                       #
 #it has a built in basic XML parser to avoid reading the entire data set into memory.     # 
@@ -26,7 +27,8 @@ def cleanWords(words):
     for word in words:
         word = "".join([ch for ch in word if ch not in punct]).lower()
         if not isHead(word):
-            clean_word_list.append(word)
+            if word != '':
+                clean_word_list.append(word)
     clean_wordset = set(clean_word_list)
     return(clean_wordset)
 #this parses the input file to extract context words, it returns sets of words for each instance of the lexical item in question
@@ -89,6 +91,7 @@ uniq_set = uniqueWords(contexts)
 #this makes vectors for each set of context words and puts them in a 2d list
 word_vecs = []
 for word_set in contexts:
+    print(word_set)
     word_vec = vectorize(word_set, uniq_set)
     word_vecs.append(word_vec)    
 #print(word_vecs[0])
