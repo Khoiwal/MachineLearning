@@ -8,7 +8,7 @@
 ###########################################################################################
 import sys
 
-#determines if the word is the lexical item in question (between head tags in XML)
+#determines if the word is the lexical item in question (between head tags in XML)   
 def isHead(word):
     beg = word[0:5]
     end = word[-5:]
@@ -36,16 +36,50 @@ def parse_file(infile,lex):
     #flags for parsing lines as they come in
     parsing = False
     context = False
+
     wordsets = []
+    sensids = []
+ 
+    #get info from keyfile for test data
+    if infile == 'EnglishLS.test':
+        sensedic = {}
+        with open('EnglishLS.test.key', 'r') as keyfile:
+            for line in keyfile.read().splitlines():
+                line = line.split()
+                if line[0] == lex:
+                    sensedic[line[1]] = line[2]
 
     for line in open(infile, 'r'):
-    
+        test = False
+        train = False
+        if infile == 'EnglishLS.train':
+            train = True
+        if infile == 'EnglishLS.test':
+            test = True
         #checks for correct lexical item before parsing lines
         if line.startswith("<lexelt item=\""+ lex + "\">"):
             parsing = True
         elif line.startswith("</lexelt>"):
             parsing = False
-        if parsing:      
+        if parsing:     
+            if train:
+                if line.startswith("<answer"):
+                    #print(line)
+                    start = -14 - (len(lex) -2)
+                    sensid = line[start:-4]
+
+                    if sensid[-1] == 'U':
+                        sensid = "U"
+
+            if test:
+                if line.startswith("<instance id"):
+                    #print(line)
+                    end = len(lex) + 27
+                    instid = line[14:end]
+                    #print(instid)
+                    sensid = sensedic[instid]
+                    #print(sensid)
+                    
             #appends words from context to list 
             if line.startswith("<context>"):
                 context = True            
@@ -54,12 +88,16 @@ def parse_file(infile,lex):
             if context:
                 words = line.split()
                 wordlist = []
-                for word in words:
-                    wordlist.append(word)
-                wordset = cleanWords(wordlist)               
-                if '<context>' not in wordset:    
+                if words[0] == "<context>":
+                    pass
+                else:
+                    for word in words:
+                        wordlist.append(word)
+                    wordset = cleanWords(wordlist)               
                     wordsets.append(wordset)
-    return(wordsets)              
+                    sensids.append(sensid)
+
+    return(wordsets, sensids)              
 
 #creates a set of unique words for creating the context vector
 def uniqueWords(wordsets): 
@@ -82,7 +120,7 @@ def vectorize(words,unique_words):
 args = len(sys.argv)
 #get sets of context words from file
 try:
-    contexts = parse_file(sys.argv[1],sys.argv[2])
+    contexts, sensids = parse_file(sys.argv[1],sys.argv[2])
 except:
     print('vectorize.py <inputfile> <lexical_item>')
 #makes set of unique words
@@ -91,27 +129,34 @@ uniq_set = uniqueWords(contexts)
 #this makes vectors for each set of context words and puts them in a 2d list
 word_vecs = []
 for word_set in contexts:
-    print(word_set)
+    #print(word_set)
     word_vec = vectorize(word_set, uniq_set)
     word_vecs.append(word_vec)    
 #print(word_vecs[0])
 
 #writes to a tsv for TIMBL input
 if sys.argv[1] == 'EnglishLS.train':
-    outfile = sys.argv[2] + ".vectors.train.tsv"
+    feature_file = sys.argv[2] + ".vectors.train.tsv"
+    class_file = sys.argv[2] + ".classes.train.txt"
 if sys.argv[1] == 'EnglishLS.test':
-    outfile = sys.argv[2] + ".vectors.test.tsv"
+    feature_file = sys.argv[2] + ".vectors.test.tsv"
+    class_file = sys.argv[2] + ".classes.test.txt"
 
-with open(outfile, 'w') as out: 
+with open(feature_file, 'w') as out: 
     
     for vec in word_vecs:
         ones = 0
         for val in vec:
-            if val == 1:
-                ones +=1
+            #if val == 1:
+                #ones +=1
             out.write(str(val) + "\t")
-        print(ones)   
+        #print(ones)   
         out.write("\n")
+
+with open(class_file, 'w') as out:
+    for sensid in sensids:
+        #print(sensid)
+        out.write(sensid + '\n')
     
 
 
