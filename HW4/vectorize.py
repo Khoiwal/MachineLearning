@@ -128,7 +128,7 @@ for lex in lexes:
     #get sets of context words from file
     
     test_contexts, test_sensids = parse_file(testin, lex)
-    train_contexts, train_sensids = parse_file(testin, lex)
+    train_contexts, train_sensids = parse_file(trainin, lex)
 
     #makes set of unique words
     uniq_set = uniqueWords(test_contexts + train_contexts)
