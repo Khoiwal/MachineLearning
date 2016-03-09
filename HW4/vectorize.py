@@ -6,7 +6,6 @@
 #head in a single context difficult due to the nature of the created object.              #
 #-Zac Branson 03/02/2016                                                                  #
 ###########################################################################################
-import sys
 
 #determines if the word is the lexical item in question (between head tags in XML)   
 def isHead(word):
@@ -117,47 +116,70 @@ def vectorize(words,unique_words):
         else: word_vec.append(0)
     return(word_vec)
 
-args = len(sys.argv)
-#get sets of context words from file
-try:
-    contexts, sensids = parse_file(sys.argv[1],sys.argv[2])
-except:
-    print('vectorize.py <inputfile> <lexical_item>')
-#makes set of unique words
-uniq_set = uniqueWords(contexts)
+lexes = ['arm.n', 'interest.n', 'difficulty.n']
+for lex in lexes:
+    test_word_vecs = []
+    train_word_vecs = []
+    test_sensids = []
+    train_sensids = []
 
-#this makes vectors for each set of context words and puts them in a 2d list
-word_vecs = []
-for word_set in contexts:
-    #print(word_set)
-    word_vec = vectorize(word_set, uniq_set)
-    word_vecs.append(word_vec)    
-#print(word_vecs[0])
-
-#writes to a tsv for TIMBL input
-if sys.argv[1] == 'EnglishLS.train':
-    feature_file = sys.argv[2] + ".vectors.train.tsv"
-    class_file = sys.argv[2] + ".classes.train.txt"
-if sys.argv[1] == 'EnglishLS.test':
-    feature_file = sys.argv[2] + ".vectors.test.tsv"
-    class_file = sys.argv[2] + ".classes.test.txt"
-
-with open(feature_file, 'w') as out: 
+    testin = 'EnglishLS.test'
+    trainin = 'EnglishLS.train'
+    #get sets of context words from file
     
-    for vec in word_vecs:
-        ones = 0
-        for val in vec:
-            #if val == 1:
-                #ones +=1
-            out.write(str(val) + "\t")
-        #print(ones)   
-        out.write("\n")
+    test_contexts, test_sensids = parse_file(testin, lex)
+    train_contexts, train_sensids = parse_file(testin, lex)
 
-with open(class_file, 'w') as out:
-    for sensid in sensids:
-        #print(sensid)
-        out.write(sensid + '\n')
+    #makes set of unique words
+    uniq_set = uniqueWords(test_contexts + train_contexts)
+
+    #this makes vectors for each set of context words   
+    word_vecs = []
+    for word_set in test_contexts:
+        #print(word_set)
+        test_word_vec = vectorize(word_set, uniq_set)
+        test_word_vecs.append(test_word_vec)    
+    for word_set in train_contexts:
+        #print(word_set)
+        train_word_vec = vectorize(word_set, uniq_set)
+        train_word_vecs.append(train_word_vec) 
+
+
+    test_feature_file = lex + ".vecs.test.tsv"
+    test_class_file = lex + ".class.test.txt"
+
+    train_feature_file = lex + ".vecs.train.tsv"
+    train_class_file = lex + ".class.train.txt"
+
+    with open(test_feature_file, 'w') as out: 
+        for vec in test_word_vecs:
+            ones = 0
+            for val in vec:
+                #if val == 1:
+                    #ones +=1
+                 out.write(str(val) + "\t")
+            #print(ones)   
+            out.write("\n")
+
+    with open(test_class_file, 'w') as out:
+        for sensid in test_sensids:
+            #print(sensid)
+            out.write(sensid + '\n')
     
+    with open(train_feature_file, 'w') as out: 
+        for vec in train_word_vecs:
+            ones = 0
+            for val in vec:
+                #if val == 1:
+                    #ones +=1
+                out.write(str(val) + "\t")
+            #print(ones)   
+            out.write("\n")
+
+    with open(train_class_file, 'w') as out:
+        for sensid in train_sensids:
+            #print(sensid)
+            out.write(sensid + '\n')
 
 
 
