@@ -1,0 +1,514 @@
+
+<lexelt item="ac.n">
+<sense id="ac.n%01a" source="DEX" label="ustensila" type="word" gloss="mica ustensila de otel, subtire, ascutita si lustruita, prevazuta cu un orificiu prin care se trece un fir, care serveste la cusut"/>
+<sense id="a_avea_ac_de_cojocul_cuiva%01b" source="DEX" label="a_avea_ac_de_cojoc" type="collocation" gloss="a avea mijloace de a infrina sau de a pedepsi pe cineva"/>
+<sense id="a_umbla_ca_pe_ace%01c" source="DEX" label="a_umbla_ca_pe_ace" type="collocation" gloss="a merge incet, cu grija"/>
+<sense id="a_scapa_ca_prin_urechile_acului_%01d" source="DEX" label="a_scapa_ca_prin_urechile_acului" type="collocation" gloss="a scapa cu mare greutate"/>
+<sense id="nici_cat_un_virf_de_ac%01e" source="DEX" label="nici_cit_un_virf_de_ac" type="collocation" gloss="extrem de mic, foarte putin, aproape de loc"/>
+<sense id="a_cauta_acul_in_carul_cu_fan%01f" source="DEX" label="a_cauta_acul_in_carul_cu_fin" type="collocation" gloss="a se apuca de o munca zadarnica"/>
+<sense id="ac.n%02a" source="DEX" label="obiect" type="word" gloss="nume dat unor obiecte asemanatoare cu un ac, avand diverse intrebuintari"/>
+<sense id="ac_de_masina.n%02b" source="DEX" label="ac_de_masina" type="collocation" gloss="ac pentu masina de cusut"/>
+<sense id="ace_de_gheata.n%02c" source="DEX" label="ace_de_gheata" type="collocation" gloss="cristale de gheata, subtiri si ascutite, care se formeaza iarna"/>
+<sense id="ac.n%03a" source="DEX" label="indicator" type="word" gloss="indicator la unele instrumente de masura sau in medicina"/>
+<sense id="ac.n%03b" source="DEX" label="macaz" type="word" gloss="macaz"/>
+<sense id="ac.n%04a" source="DEX" label="organ_ac" type="word" gloss="organ de aparare si de atac al unor animale, in forma de ghimpe sau de virf ascutit"/>
+<sense id="ac.n%04b" source="DEX" label="organ_ace" type="word" gloss="organ in forma de ac sau de ghimpe care acopera pielea unor animale, folosit pentru aparare"/>
+<sense id="ac.n%05a" source="DEX" label="frunza" type="word" gloss="frunza ingusta, ascutita, caracteristica coniferelor"/>
+<sense id="acul-doamnei.n%06a" source="DEX" label="acul-doamnei" type="collocation" gloss="planta erbacee din familia umbeliferelor, cu flori albe si cu fructe terminate cu un cioc lung"/>
+<sense id="ac-de-mare.n%06b" source="DEX" label="ac-de-mare" type="collocation" gloss="peste marin, lung si ascutit, in forma de andrea, acoperit cu placi osoase"/>
+</lexelt>
+
+
+<lexelt item="accent.n">
+<sense id="accent.n%01a" source="DEX" label="pronuntie" type="word" gloss="pronuntare mai intensa, pe un ton mai inalt etc. al unei silabe dintr-un cuvint sau a unui cuvint dintr-un grup sintactic "/>
+<sense id="accent.n%01b" source="DEX" label="semn_grafic" type="word" gloss="semn grafic pus de obicei deasupra unei vocale pentru a marca aceasta pronuntare sau alta particularitate de pronuntare"/>
+<sense id="a_pune_accent%01c" source="DEX" label="a_pune_accent" type="collocation" gloss="a scoate in relief, a da atentie deosebite (unei probleme)"/>
+<sense id="accent.n%02a" source="DEX" label="pronuntie" type="word" gloss="fel particular de pronuntare, specific unui grai, unei limbi sau unei stari afective"/>
+<sense id="accent.n%03a" source="DEX" label="musical" type="word" gloss="scoatere in relief a unui sunet muzical prin amplificarea sonoritatii sau prin prelungirea duratei lui"/>
+</lexelt>
+
+
+<lexelt item="actiune.n">
+<sense id="actiune.n%01a" source="DEX" label="desfasurare" type="word" gloss="desfasurare a unei activitati; fapta intreprinsa (pentru atingerea unui scop)"/>
+<sense id="om_de_actiune.n%01b" source="DEX" label="om_de_actiune" type="collocation" gloss="om intreprinzator, energetic, care actioneaza repede"/>
+<sense id="a_pune_in_actiune%01c" source="DEX" label="a_pune_in_actiune" type="collocation" gloss="a pune in miscare"/>
+<sense id="a_trece_la_actiune%01d" source="DEX" label="a_trece_la_actiune" type="collocation" gloss="a intreprinde ceva"/>
+<sense id="actiune.n%01e" source="DEX" label="operatiune" type="word" gloss="operatiune militara"/>
+<sense id="actiune.n%01f" source="DEX" label="activitate" type="word" gloss="ceea ce exprima verbul (o stare, o miscare, un proces, etc)"/>
+<sense id="actiune.n%02a" source="DEX" label="subiect" type="word" gloss="desfasurare a intamplarilor intr-o opera literara; fabulatie, subiect, intriga"/>
+<sense id="actiune.n%03a" source="DEX" label="efect" type="word" gloss="efect, exercitare a unei influente asupra unui obiect, a unui fenomen"/>
+<sense id="actiune.n%04a" source="DEX" label="proces" type="word" gloss="proces; act prin care se cere deschiderea unui proces"/>
+<sense id="actiune.n%05a" source="DEX" label="hirtie" type="word" gloss="hirtie de valoare, care reprezinta o parte anumita, fixa si dinainte stabilita, a capitalului unei societati si care da detinatorului dreptul sa primeasca dividende"/>
+</lexelt>
+
+
+<lexelt item="canal.n">
+<sense id="canal.n%01a" source="DEX" label="albie" type="word" gloss="albie artificiala, sau amenajata, care leaga intre ele doua fluvii, un riu cu un lac, etc., si care serveste la navigatie, la irigari sau la constructii hidrotehnice"/>
+<sense id="canal.n%01b" source="DEX" label="curs_de_apa" type="word" gloss="curs de apa, indiguit si drenat, cu scopul de a-l face navigabil, de a preveni inundatiile, etc."/>
+<sense id="canal.n%01c" source="DEX" label="cale_circulatie" type="word" gloss="cale de circulatie (tinind loc de strada) in orasele asezate la mare sau pe fluvii"/>
+<sense id="canal.n%01d" source="DEX" label="portiune_de_mare" type="word" gloss="portiune de mare, situata intre doua tarmuri apropriate"/>
+<sense id="canal.n%02a" source="DEX" label="conducta" type="word" gloss="conducta (construita din beton sau din tuburi imbinate, din santuri sau rigole), destinata sa transporte lichide, in diferite scopuri"/>
+<sense id="canal.n%03a" source="DEX" label="formatie_organica" type="word" gloss="formatie organica in forma de tub, vas, sau cale de comunicatie in organismele animale sau vegetale (prin care circula substantele nutritive, secretii, etc.)"/>
+</lexelt>
+
+
+<lexelt item="circuit.n">
+<sense id="circuit.n%01a" source="DEX" label="dispozitiv" type="word" gloss="ansamblu de fire si dispozitive bune conducatoare de electricitate care, impreuna cu sursa curentului, formeaza un traseu inchis pentru trecerea unui curent"/>
+<sense id="circuit.n%01b" source="DEX" label="dispozitiv" type="word" gloss="sistem de conducte sau de medii prin care pot circula particule materiale"/>
+<sense id="circuit.n%02a" source="DEX" label="miscare" type="word" gloss="miscare a capitalului industrial sau a fondurilor unei intreprinderi socialiste in sfera productiei si a circulatiei (de la forma baneasca la forma productive, apoi la forma marfa si din nou la forma baneasca)"/>
+<sense id="circuit.n%02b" source="DEX" label="miscare" type="word" gloss="miscare a marfurilor"/>
+<sense id="circuit.n%02c" source="DEX" label="transformare" type="word" gloss="proces de transformare si de prelucrare a materiei prime in produse finite"/>
+<sense id="circuit.n%03a" source="DEX" label="distanta" type="word" gloss="distanta de strabatut pe un traseu mai mult sau mai putin circular, stabilit dinainte, pentru o proba sportiva; drum, distanta parcursa de cineva sau de ceva (pe un itinerar prestablit si cu intoarcerea la punctul de plecare)"/>
+<sense id="circuitul_apei_in_natura.n%03b" source="DEX" label="circuitul_apei_in_natura" type="collocation" gloss="proces complex prin care apa trece succesiv prin stadiile de evaporatie, de nori, de precipitatii, de formare a apelor de suprafata si subterane"/>
+</lexelt>
+
+
+<lexelt item="circulatie.n">
+<sense id="circulatie.n%01a" source="DEX" label="circula" type="word" gloss="faptul de a circula"/>
+<sense id="circulatie.n%02a" source="DEX" label="miscare" type="word" gloss="miscare, deplasare, de obicei pe o cale de comunicatie"/>
+<sense id="circulatie.n%02b" source="DEX" label="deplasare" type="word" gloss="deplasare a sevei in plante sau a citoplasmei in interiorul celulelor"/>
+<sense id="circulatie.n%03a" source="DEX" label="miscare" type="word" gloss="miscare, curgere a unui lichid, a unui gaz, a unui curent etc. in interiorul unui circuit sau al unei conducte"/>
+<sense id="circulatie.n%04a" source="DEX" label="transmitere" type="word" gloss="transmitere, schimb de bunuri, de marfuri, (prin intermediul banilor), transformare a marfurilor in bani si a banilor in marfuri"/>
+<sense id="de_mare_circulatie%04b" source="DEX" label="de_mare_circulatie" type="collocation" gloss="foarte raspsndit"/>
+<sense id="a_fi_in_circulatie%04c" source="DEX" label="a_fi_in_circulatie" type="collocation" gloss="a fi intrebuintat, a avea valoare"/>
+<sense id="a_pune_in_circulatie%04d" source="DEX" label="a_pune_in_circulatie" type="collocation" gloss="a face sa intre in uz, sa se raspindeasca, sa functioneze"/>
+<sense id="a_scoate_din_circulatie%04e" source="DEX" label="a_scoate_din_circulatie" type="collocation" gloss="a obosi peste masura (pe cineva), a extenua"/>
+</lexelt>
+
+
+<lexelt item="coroana.n">
+<sense id="coroana.n%01a" source="DEX" label="podoaba" type="word" gloss="podoaba pentru cap in forma de cerc, facuta din flori si frunze"/>
+<sense id="coroana.n%01b" source="DEX" label="cununa" type="word" gloss="cununa de flori sau de frunze (naturale sau artificiale) care se depun ca omagiu la mormintul cuiva"/>
+<sense id="coroana.n%02a" source="DEX" label="podoaba_metal" type="word" gloss="podoaba de metal (pretios), ornata cu pietre scumpe, si purtata de monarhi la ocazii solemne ca semn al puterii lor"/>
+<sense id="coroana.n%02b" source="DEX" label="semn" type="word" gloss="semn distinctiv imprimat, desenat sau brodat in forma de coroana, pe stemele si pe blazoanele familiilor imperiale, regale, sau senioriale"/>
+<sense id="coroana.n%03a" source="DEX" label="putere" type="word" gloss="putere monarhica, suveranitate; persoana care detine aceasta putere"/>
+<sense id="coroana.n%04a" source="DEX" label="moneda" type="word" gloss="unitate monetara in anumite tari"/>
+<sense id="coroana.n%05a" source="DEX" label="coroana_arbore" type="word" gloss="totalitatea ramurilor unui arbore, arbust, etc."/>
+<sense id="coroana.n%06a" source="DEX" label="dinte" type="word" gloss="partea superioara, vizibila, a dintelui omului, care iese din gingie si este acoperita de smalt"/>
+<sense id="coroana.n%06b" source="DEX" label="imbracaminte_masea" type="word" gloss="imbracaminte de metal, de portelan, de acrilat, cu care se acopera un dinte sau o masea cariata"/>
+<sense id="coroana.n%07a" source="DEX" label="copita" type="word" gloss="partea de deasupra copitei la piciorul calului"/>
+<sense id="coroana.n%08a" source="DEX" label="suprafata" type="word" gloss="suprafata curpinsa intre doua cercuri concentrice"/>
+<sense id="coroana_solara.n%08b" source="DEX" label="coroana_solara" type="collocation" gloss="regiune luminoasa in jurul Soarelui, formata din stratul exterior si cel mai rarefiat al atmosferei solare"/>
+<sense id="coroana_boreala.n%08c" source="DEX" label="coroana_boreala" type="collocation" gloss="numele unei constelatii (circulare) din emisfera boreala"/>
+<sense id="coroana.n%10a" source="DEX" label="piesa" type="word" gloss="nume dat mai multor piese sau parti de piese mecanice, de lungime mica, avind forma unui cilindru gol"/>
+<sense id="coroana.n%11a" source="DEX" label="muzica" type="word" gloss="semn pus deasupra unei note sau a unei pauze pentru a le prelungi valoarea; fermata 					 		 "/>
+</lexelt>
+
+
+<lexelt item="delfin.n">
+<sense id="delfin.n%01a" source="DEX" label="mamifer" type="word" gloss="mamifer marin cu corpul in forma de fus, care atinge marimea de trei metri, cu botul alungit, prevazut cu numerosi dinti conici, si care traieste in grupuri compacte in toate marile; porc-de-mare"/>
+<sense id="delfin.n%02a" source="DEX" label="constelatie" type="word" gloss="constelatie din emisfera boreala, in vecinatatea caii-laptelui"/>
+<sense id="delfin.n%03a" source="DEX" label="inot" type="word" gloss="procedeu tehnic de inot in care sportivul, culcat cu fata in jos, inainteaza la suprafata apei prin miscarea simultana si simetrica a bratelor, dinainte spre inapoi, coordonata cu bataia simultana in plan vertical a picioarelor"/>
+<sense id="delfin.n%04a" source="DEX" label="titlu_feudal" type="word" gloss="titlu feudal purtat de unii conti din Franta"/>
+<sense id="delfin.n%05a" source="DEX" label="titlu" type="word" gloss="titlu purtat de fiul cel mai mare al regilor Frantei, mostenitorul prezumtiv al tronului (si suzeran al provinciei Dauphine)"/>
+</lexelt>
+
+
+<lexelt item="demonstratie.n">
+<sense id="demonstratie.n%01a" source="DEX" label="dovedire" type="word" gloss="dovedire, pe baza de argumente si de exemple concrete, a realitatii unui fapt; demonstrare, argumentare"/>
+<sense id="demonstratie.n%01b" source="DEX" label="rationamente" type="word" gloss="sir de calcule, de rationamente, etc., prin care se dovedeste adevarul unei teoreme sau continutul unei formule"/>
+<sense id="demonstratie.n%02a" source="DEX" label="procedeu" type="word" gloss="procedeu de adincire deductiva a adevarului unui enunt"/>
+<sense id="demonstratie.n%03a" source="DEX" label="manifestatie" type="word" gloss="manifestatie (a maselor) cu caracter politic-social"/>
+<sense id="demonstratie.n%04a" source="DEX" label="exteriorizare" type="word" gloss="exteriorizare a unui sentiment"/>
+<sense id="demonstratie_de_forta.n%04b" source="DEX" label="demostratie_de_forta" type="collocation" gloss="concentrare si desfasurare a unor forte militare cu scopul de a intimida"/>
+</lexelt>
+
+
+<lexelt item="eruptie.n">
+<sense id="eruptie.n%01a" source="DEX" label="actiune" type="word" gloss="actiune prin care un vulcan arunca lava sau prin care o sonda arunca titei; iesire brusca si violenta din pamint a unui gaz, a, titeiului, a lavei, etc.; tisnire, izbucnire"/>
+<sense id="eruptie.n%02a" source="DEX" label="boala" type="word" gloss="aparitia unor pete, a unor basicute, placi, pustule etc. pe piele sau pe mucoase, constituind simptomul unor boli (contagioase); totalitatea acestor pete, placi, pustule etc. aparute"/>
+</lexelt>
+
+
+<lexelt item="geniu.n">
+<sense id="geniu.n%01a" source="DEX" label="inzestrare" type="word" gloss="cea mai inalta treapta de inzestrare spirituala a omului, caracterizata printr-o activitate creatoare ale carei rezultate au o mare insemnatate; persoana care are o asemenea inzestrare"/>
+<sense id="geniu.n%01b" source="DEX" label="genial" type="collocation" gloss="genial"/>
+<sense id="geniu.n%02a" source="DEX" label="fire" type="word" gloss="fire, natura, caracter specific"/>
+<sense id="geniu.n%03a" source="DEX" label="spirit" type="word" gloss="spirit protector; duh (bun sau rau)"/>
+<sense id="geniu.n%04a" source="DEX" label="arma" type="word" gloss="arma militara care cuprinde trupe specializate pentru executarea lucrarilor de fortificatii, de drumuri, de poduri, etc."/>
+</lexelt>
+
+
+<lexelt item="nucleu.n">
+<sense id="nucleu.n%01a" source="DEX" label="particula" type="word" gloss="particula centrala a unui atom, alcatuita din protoni si neutroni, purtatoare de sarcini electrice pozitive, in care este concentrata aproape toata masa atomului"/>
+<sense id="nucleu_cristalin.n%01b" source="DEX" label="nucleu_cristalin" type="collocation" gloss="cristal de dimensiuni foarte mici, care serveste ca centru de depunere in cursul cristalizarii unei solutii sau topituri"/>
+<sense id="nucleu.n%02a" source="DEX" label="atomi" type="word" gloss="ciclu de atomi sau ansamblu de cicluri de atomi alipite, care formeaza scheletul moleculelor unei substante si care ramane neschimbat la toti derivatii substantei respective"/>
+<sense id="nucleu.n%03a" source="DEX" label="element" type="word" gloss="element constitutiv al celulei organice, de forma sferica sau ovoidala, situat in plasma, avind o structura proprie si indeplinind functii insemnate in viata celulei"/>
+<sense id="nucleu.n%03b" source="DEX" label="grupare" type="word" gloss="grupare de celule nervoase din axul nervos, care constituie centri nervosi sau regiunea de origine a unor nervi"/>
+<sense id="nucleu.n%04a" source="DEX" label="element esential" type="word" gloss="element esential, central al unui lucru, al unei actiuni"/>
+<sense id="nucleu.n%04b" source="DEX" label="grup" type="word" gloss="grup restrans de persoane care actioneaza in mod organizat si in jurul caruia se formeaza sau tinde sa se formeze o grupare mai mare"/>
+</lexelt>
+
+
+<lexelt item="opozitie.n">
+<sense id="opozitie.n%01a" source="DEX" label="contrast" type="word" gloss="raportul dintre doua lucruri sau doua situatii opuse, contradictorii; deosebire izbitoare, contrast"/>
+<sense id="in_opozitie_cu%01b" source="DEX" label="in_opozitie_cu" type="collocation" gloss="in contrast cu, spre deosebire de"/>
+<sense id="opozitie.n%02a" source="DEX" label="impotrivire" type="word" gloss="impotrivire, opunere, rezistenta"/>
+<sense id="a_face_opozitie%02b" source="DEX" label="a_face_opozitie" type="collocation" gloss="a se opune, a se impotrivi"/>
+<sense id="opozitie.n%03a" source="DEX" label="contradictie" type="word" gloss="notiune a dialecticii desemnind un stadiu mai inalt de dezvoltare a contradictiei decat deosebirea, stadiu in care obiectul unitar se dedubleaza in contrarii ce se exclud"/>
+<sense id="opozitie.n%03b" source="DEX" label="excludere" type="word" gloss="raport de excludere intre doua notiuni sau intre doua judecati, astfel incat acceptarea uneia dintre ele duce la respingerea celeilalte"/>
+<sense id="opozitie.n%04a" source="DEX" label="pozitie" type="word" gloss="pozitie a doua corpuri ceresti care privite de pe pamant se gasesc pe bolta cereasca diametral opuse"/>
+<sense id="opozitie.n%05a" source="DEX" label="manifestare" type="word" gloss="manifestare de vointa destinata sa impiedice indeplinirea unui act juridic sau sa impuna anumite conditii acestei indepliniri"/>
+<sense id="opozitie.n%05b" source="DEX" label="atac" type="word" gloss="cale de atac impotriva unei hotariri in fata aceleiasi instante, in cazul cind hotararea a fost luata in lipsa partilor"/>
+<sense id="opozitie.n%05c" source="DEX" label="atac" type="word" gloss="cale de atac impotriva anumitor acte de executare silita"/>
+<sense id="opozitie.n%06a" source="DEX" label="diferenta_fonetica" type="word" gloss="diferenta, de obicei fonetica, cu sau fara valoare functionala, intre doua unitati lingvistice"/>
+<sense id="opozitie.n%07a" source="DEX" label="politica" type="word" gloss="totalitatea persoanelor care fac parte dintr-un grup politic potrivnic partidului aflat la putere; politica pe care o duce acest grup fata de partidul la putere "/>
+</lexelt>
+
+
+<lexelt item="perie.n">
+<sense id="perie.n%01a" source="DEX" label="obiect" type="word" gloss="obiect facut dintr-o placa de lemn, de os, de metal in care sunt fixate fire de par de animale, fire textile, de sarma, fire sintetice si care serveste la frecat, la curatat etc. manual diverse obiecte"/>
+<sense id="perie.n%01b" source="DEX" label="persoana" type="word" gloss="om lingusitor"/>
+<sense id="perie.n%02a" source="DEX" label="unealta" type="word" gloss="unealta sau organ de masina asemanatoare cu peria, folosita la curatarea, netezirea sau inasprirea suprafetei unui corp"/>
+<sense id="perie.n%02b" source="DEX" label="unealta" type="word" gloss="unealta asemanatoare cu o perie, cu care se bate hirtia asezata pe un spalt, cu scopul de a imprima pe ea textul; text imprimat astfel, care serveste pentru corectura"/>
+<sense id="perie.n%03a" source="DEX" label="piesa" type="word" gloss="piesa componenta a masinilor electrice, care face contactul electric alunecator cu colectorul sau cu inelele de contact"/>
+</lexelt>
+
+
+<lexelt item="pictura.n">
+<sense id="pictura.n%01a" source="DEX" label="arta plastica" type="word" gloss="ramura a artelor plastice care interpreteaza realitatea in imagini vizuale, prin forme colorate, bidimensionale, desfasurate pe o suprafata plana"/>
+<sense id="pictura.n%02a" source="DEX" label="tablou" type="word" gloss="lucrare artistica executata de un pictor; tablou, panza"/>
+<sense id="pictura.n%02b" source="DEX" label="creatii" type="word" gloss="ansamblul creatiilor plastice care definesc personalitatea unui pictor"/>
+<sense id="pictura.n%02c" source="DEX" label="opere" type="word" gloss="ansamblul operelor, stilurilor si procedeelor specifice pictorilor dintr-o tara, dintr-o epoca, dintr-o scoala etc."/>
+<sense id="pictura.n%03a" source="DEX" label="descriere" type="word" gloss="descriere sugestiva (intr-o opera beletristica) a fizicului si a caracterului personajelor, a unor scene din viata reala si din natura"/>
+</lexelt>
+
+
+<lexelt item="platforma.n">
+<sense id="platforma.n%01a" source="DEX" label="suprafata" type="word" gloss="suprafata orizontala plana a unui vehicul, a unui aparat de ridicat etc. pe care se incarca marfuri, vite, etc; vagin sau camion deschis fara pereti si fara acoperis, utilizat pentru transporturi"/>
+<sense id="platforma_de_lansare.n%01b" source="DEX" label="suport" type="word" gloss="suport plan, orizontal, de pe care rachetle teleghidate decoleaza vertical; rampa de lansare"/>
+<sense id="platforma.n%01c" source="DEX" label="suprafata" type="word" gloss="parte a unui tramvai, a unui autobuz, a unui vagon de tren etc., in dreptul usilor, pe unde urca sau coboara calatorii"/>
+<sense id="platforma.n%02a" source="DEX" label="element_plan" type="word" gloss="element plan al unei costructii"/>
+<sense id="platforma.n%02b" source="DEX" label="palier" type="word" gloss="palier al unei scari"/>
+<sense id="platforma.n%03a" source="DEX" label="constructie" type="word" gloss="constructie sau suprafata de teren plana amenajata pentru efectuarea unor lucrari cu caracter tehnic, pentru instalarea unui utilaj, pentru verificarea unor masini sau aparate, pentru depozitarea unor materiale, etc."/>
+<sense id="platforma.n%04a" source="DEX" label="teren" type="word" gloss="teren, de cele mai multe ori plan, situat la diferite inaltimi"/>
+<sense id="platforma.n%05a" source="DEX" label="instalatie" type="word" gloss="instalatie orizontala rigida, de 2-6 m lungime, acoperita cu un strat antiderapant, de pe care se executa sarituri in apa"/>
+<sense id="platforma.n%06a" source="DEX" label="structura" type="word" gloss="unitate structurala veche a scoartei pamintului cu fundamentul cutat, peste care sint depuse depozite sedimentare aproape orizontale"/>
+<sense id="platforma.n%07a" source="DEX" label="program" type="word" gloss="program de activitate sau de revendicari politice a unui partid, al unei grupari sau al unui om politic"/>
+<sense id="platforma.n%08a" source="DEX" label="tema" type="word" gloss="obiectul, problemele, punctul de vedere al unei discutii"/>
+</lexelt>
+
+
+<lexelt item="port.n">
+<sense id="port.n%01a" source="DEX" label="fapt" type="word" gloss="faptul de a purta sau a detine"/>
+<sense id="port.n%02a" source="DEX" label="conduita" type="word" gloss="conduita obisnuita, fireasca, normala"/>
+<sense id="port.n%03a" source="DEX" label="imbracaminte" type="word" gloss="imbracaminte caracteristica unui popor, unei regiuni, unei epoci etc."/>
+<sense id="a_purta_portul_cuiva%03b" source="DEX" label="a_purta_portul_cuiva" type="collocation" gloss="a se asemana, a se potrivi cu cineva, a fi la fel cu cineva, a se adapta la felul de a fi al cuiva"/>
+<sense id="port.n%03c" source="DEX" label="imbracaminte" type="word" gloss="imbracaminte folosita la anumite ocazii"/>
+<sense id="port.n%04a" source="DEX" label="complex_tehnic" type="word" gloss="complex tehnic amenajat pe malul unei ape navigabile, prevazut cu instalatiile necesare pentru acostarea, incarcarea, descarcarea si repararea navelor"/>
+<sense id="port.n%05a" source="DEX" label="oras" type="word" gloss="oras care are un port"/>
+</lexelt>
+
+
+<lexelt item="problema.n">
+<sense id="problema.n%01a" source="DEX" label="chestiune" type="word" gloss="chestiune care prezinta aspecte neclare, discutabile, care necesita o lamurire, o precizare, care se peteaza la discutii"/>
+<sense id="problema.n%02a" source="DEX" label="preocupare" type="word" gloss="chestiune importanta care constituie o sarcina, o preocupare (majora) si care cere o solutionare (imediata)"/>
+<sense id="problema.n%03a" source="DEX" label="tema" type="word" gloss="chestiune care intra in sfera preocuparilor, cercetarilor cuiva; obiect principal al preocuparilor cuiva; tema, materie"/>
+<sense id="problema.n%03b" source="DEX" label="exercitiu" type="word" gloss="chestiune in care, fiind date anumite ipoteze, se cere rezolvarea, prin calcule sau prin rationamente, a unor date"/>
+<sense id="problema.n%04a" source="DEX" label="dificultate" type="word" gloss="dificultate care trebuie rezolvata pentu a obtine un anumit rezultat; greutate, impas"/>
+<sense id="problema.n%05a" source="DEX" label="enigma" type="word" gloss="lucru greu de inteles, greu de rezolvat sau de explicat; mister, enigma"/>
+</lexelt>
+
+
+<lexelt item="proces.n">
+<sense id="proces.n%01a" source="DEX" label="actiune" type="word" gloss="actiune in justitie facuta pentru solutionarea unui diferend intre doua parti care sunt in litigiu sau pentru constatarea si sanctionarea calcarii legilor statului; actiune judecatoreasca; totalitatea actelor, documentelor adunate in vederea acestei actiuni"/>
+<sense id="a_intenta_proces%01b" source="DEX" label="a_intenta_proces" type="collocation" gloss="a chema pe cineva in fata instantelor de judecata, a da pe cineva in judecata"/>
+<sense id="a_face_procesul_cuiva%01c" source="DEX" label="a_face_procesul_cuiva" type="collocation" gloss="a critica, a ataca (pe cineva sau ceva)"/>
+<sense id="a_face_cuiva_proces_de_intentie%01d" source="DEX" label="a_face_cuiva_proces_de_intentie" type="collocation" gloss="a invinui pe cineva de intentii reprobabile pe care nu poti dovedii ca le-a avut"/>
+<sense id="a-si_face_procese_de_constiinta%01e" source="DEX" label="a-si_face_procese_de_constiinta" type="collocation" gloss="a regreta , a-si reprosa anumite atitudini sau actiuni"/>
+<sense id="proces-verbal.n%01f" source="DEX" label="proces-verbal" type="collocation" gloss="inscris (cu caracter oficial) in care se consemneaza un fapt de natura juridica; act cu caracter oficial in care se redau pe scurt discutiile si hotaririle unei adunari constituite"/>
+<sense id="proces.n%02a" source="DEX" label="desfasurare" type="word" gloss="succesiune de operatii, de stari sau de fenomene prin care se efectueaza o lucrare, se produce o transformare; evolutie, dezvoltare, desfasurare; actiune"/>
+<sense id="proces_chimic.n%02b" source="DEX" label="proces_chimic" type="collocation" gloss="proces de transformare a unor substante datorita reactiilor chimice prin care trec"/>
+<sense id="proces_de_productie.n%02c" source="DEX" label="proces_de_procuctie" type="collocation" gloss="proces social in cadrul caruia oamenii intra in relatii reciproce determinate si actioneaza , cu ajutorul uneltelor de productie, asupra obiectului muncii, pentru a crea bunurile materiale; proces de fabricatie"/>
+<sense id="proces_de_fabricatie.n%02d" source="DEX" label="proces_de_fabricatie" type="collocation" gloss="totalitatea procedeelor folosite pentru transformarea materiilor prime si a semifabricatelor in produse finite"/>
+<sense id="proces.n%03a" source="DEX" label="maladie" type="word" gloss="maladie (a unui organ sau a intregului organism) in curs de evolutie (sau de regres)"/>
+</lexelt>
+
+
+<lexelt item="reactie.n">
+<sense id="reactie.n%01a" source="DEX" label="atitudine" type="word" gloss="faptul de a reactiona; atitudine, manifestare ca raspuns la ceva"/>
+<sense id="reactie.n%02a" source="DEX" label="raspuns" type="word" gloss="fenomen nemijlocit prin care materia vie raspunde actiunii unui excitant (venit din interior sau dinafara)"/>
+<sense id="reactie.n%03a" source="DEX" label="transformare" type="word" gloss="fenomen de transformare a uneia sau mai multor substante chimice sub actiunea unor agenti fizici sau a altor substante chimice, in urma caruia se formeaza substante noi, cu proprietati diferite de ale celor initiale"/>
+<sense id="reactie_nucleara.n%04a" source="DEX" label="interactiune" type="word" gloss="fenomen de interactiune intre doua sau mai multe nuclee atomice (ori constituenti ai lor), in urma caruia se modifica natura, structura, numarul etc. particulelor participante si se dezvolta o mare cantitate de energie"/>
+<sense id="reactie.n%05a" source="DEX" label="forta" type="word" gloss="forta (sau cuplu de forte) exercitata de un sistem de corpuri asupra altui sistem de corpuri, in momentul in care ultimul exercita asupra primului o forta (sau un cuplu de forte) care se considera ca actiune"/>
+<sense id="reactie.n%05b" source="DEX" label="derivare" type="word" gloss="derivarea unei puteri din circuitul de iesire al unui amplificator de radio cu tuburi electronice si introducerea ei in circuitul lui de intrare"/>
+<sense id="reactie.n%06a" source="DEX" label="impotrivire" type="word" gloss="(reactiune) impotrivire politica si economica a claselor in declin fata de orice manifestare a progresului social; totalitatea celor ce sustin aceasta impotrivire si vor restaurarea oranduirii vechi"/>
+</lexelt>
+
+
+<lexelt item="stil.n">
+<sense id="stil.n%01a" source="DEX" label="exprimare" type="word" gloss="mod specific de exprimare intr-un anumit domeniu al activitatii omenesti, pentru anumite scopuri ale comunicarii; fel propriu de a se exprima al unei persoane; totalitatea mijloacelor lingvistice pe care le foloseste un scriitor pentru a obtine anumite efecte de ordin artistic"/>
+<sense id="greseala_de_stil.n%01b" source="DEX" label="greseala_de_stil" type="collocation" gloss="greseala de exprimare constind fie dintr-o abatere de la regulile sintaxei, fie dintr-o intrebuintare improprie a termenilor"/>
+<sense id="stil.n%01c" source="DEX" label="exprimare" type="word" gloss="talentul, arta de a exprima ideile si sentimentele intr-o forma aleasa, personala"/>
+<sense id="stil.n%01d" source="DEX" label="limbaj" type="word" gloss="limbaj"/>
+<sense id="stil.n%01e" source="DEX" label="constructie" type="word" gloss="constructia caracteristica a frazei intr-o limba"/>
+<sense id="stil.n%02a" source="DEX" label="particularitati" type="word" gloss="ansamblul particularitatilor de manifestare specifice unui popor, unei colectivitati sau unui individ"/>
+<sense id="de_stil%02b" source="DEX" label="de_stil" type="collocation" gloss="executat dupa moda unei anumite epoci"/>
+<sense id="stil.n%02c" source="DEX" label="fel_de_a_fi" type="collocation" gloss="mod, fel de a fi, de a actiona, de a se comporta"/>
+<sense id="in_stil_mare%02d" source="DEX" label="in_stil_mare" type="collocation" gloss="(conceput sau realizat) cu mijloace deosebit de mari, cu amploare"/>
+<sense id="stil.n%03a" source="DEX" label="sistem_de_calcul" type="word" gloss="fiecare din cele doua sisteme de calculare a timpului calendaristic, intre care exista o diferenta de 13 zile"/>
+<sense id="stil_nou.n%03b" source="DEX" label="stil_nou" type="collocation" gloss="metoda de socotire a timpului calendaristic dupa calendarul gregorian"/>
+<sense id="stil_vechi.n%03c" source="DEX" label="stil_vechi" type="collocation" gloss="metoda de socotire a timpului calendaristic dupa calendarul iulian"/>
+<sense id="stil.n%04a" source="DEX" label="condei" type="word" gloss="condei de metal sau de os, ascutit la un capat si turtit la celalalt, cu care se scria in antichitate pe tablitele de ceara"/>
+<sense id="stil.n%05a" source="DEX" label="pistil" type="word" gloss="portiune subtire si cilindrica a pistilului, care porneste de la ovar si se termina cu stigmatul"/>
+</lexelt>
+
+
+<lexelt item="timbru.n">
+<sense id="timbru.n%01a" source="DEX" label="imprimat" type="word" gloss="imprimat de dimensiuni mici, emis de stat sau de o institutie special autorizata, care se lipeste pe acte oficiale sau pe scrisori si care reprezinta un impozit sau o taxa; taxa reprezentind valoarea unui timbru si care este platita direct unei administratii publice"/>
+<sense id="timbru_sec.n%01b" source="DEX" label="timbru_sec" type="collocation" gloss="imagine imprimata in relief pe hartie, cu ajutorul unui dispozitiv special de metal, care intareste valoarea unui act"/>
+<sense id="timbru_comemorativ.n%01c" source="DEX" label="timbru_comemorativ" type="collocation" gloss="timbru tiparit ocazional si folosit in locul timbrelor obisnuite, pentru comemorarea unui eveniment"/>
+<sense id="timbru.n%01d" source="DEX" label="stampila" type="word" gloss="stampila aplicata de oficiile postale, care indica locul si data plecarii sau a sosirii unei scrisori"/>
+<sense id="timbru.n%02a" source="DEX" label="insusire" type="word" gloss="insusire a sunetului muzical datorita careia se deosebesc intre ele sunetele de aceeasi inaltime si intensitate provenite de la surse diferite"/>
+<sense id="timbru.n%02b" source="DEX" label="calitate" type="word" gloss="calitate specifica a unui sunet care permite ca el sa fie distins de alt sunet, independent de inaltimea, intensitatea si durata lui"/>
+<sense id="timbru.n%03a" source="DEX" label="clopot" type="word" gloss="clopot, clopotel"/>
+</lexelt>
+
+
+<lexelt item="tip.n">
+<sense id="tip.n%01a" source="DEX" label="obiect" type="word" gloss="obiect care reprezinta modelul pe baza caruia se produc alte obiecte de acelasi fel; prototip"/>
+<sense id="tip.n%02a" source="DEX" label="exemplar" type="word" gloss="individ, exemplar, obiect, fenomen care intruneste anumite trasaturi reprezentative, esentiale pentu un grup intreg de indivizi, de exemplare, de obiecte etc. de acelasi fel"/>
+<sense id="tip.n%02b" source="DEX" label="personaj" type="word" gloss="personaj din literatura sau din arta care intruneste, in modul cel mai expresiv, trasaturile, caracterele esentiale ale indivizilor din categoria (sociala sau psihologica) pe care o reprezinta"/>
+<sense id="tip.n%02c" source="DEX" label="caractere" type="word" gloss="totalitatea caracterelor distinctive fundamentale ale unui grup, ale unei familii, ale unei rase etc."/>
+<sense id="tip.n%02d" source="DEX" label="particularitate" type="word" gloss="caracter distinctiv; particularitate"/>
+<sense id="tip.n%03a" source="DEX" label="soi" type="word" gloss="soi, fel, gen, categorie"/>
+<sense id="tip.n%04a" source="DEX" label="individ" type="word" gloss="individ, ins"/>
+</lexelt>
+
+
+<lexelt item="val.n">
+<sense id="val.n%01a" source="DEX" label="talaz" type="word" gloss="masa de apa care inainteaza prin miscari oscilatorii la suprafata unei mari, a unui fluviu etc., formind creste si adancituri; talaz"/>
+<sense id="val-virtej%01b" source="DEX" label="val-virtej" type="collocation" gloss="in mare graba, foarte repede; vijelios"/>
+<sense id="in_valuri%01c" source="DEX" label="in_valuri(valuri_valuri)" type="collocation" gloss="unul dupa altul, succesiv; din plin, cu gramada"/>
+<sense id="valurile_vietii%01d" source="DEX" label="valurile_vietii" type="collocation" gloss="greutatile, incercarile prin care trece omul in viata; vicisitudinile vietii"/>
+<sense id="valurile_tineretii%01e" source="DEX" label="valurile_tineretii" type="collocation" gloss="inconsecventa, dibuirile inerente varstei tinere"/>
+<sense id="valurile_vremii%01f" source="DEX" label="valurile_vremii" type="collocation" gloss="curgere, trecere a vremii (cu toate evenimentele ei)"/>
+<sense id="val.n%02a" source="DEX" label="analog cu un val" type="word" gloss="ceea ce se misca, vine in cantitate mare sau se napusteste ca niste valuri; ceea ce poate fi comparat (ca forma si miscare) cu un val"/>
+<sense id="val.n%03a" source="DEX" label="neplacere" type="word" gloss="incercare grea; neplacere, necaz"/>
+<sense id="val.n%04a" source="DEX" label="tesatura" type="word" gloss="cantitate de tesatura infasurata pe un cilindru special de lemn sau de carton; valatuc, tramba"/>
+<sense id="val_de_tei.n%04b" source="DEX" label="val_de_tei" type="collocation" gloss="sul facut din suvite lungi de scoarta de tei care se folosesc ca sfoara de legat"/>
+<sense id="val.n%05a" source="DEX" label="piesa_cilindrica" type="word" gloss="piesa cilindrica de metal la presele de imrpimat si da faltuit"/>
+<sense id="val.n%06a" source="DEX" label="tavalug" type="word" gloss="tavalug"/>
+<sense id="val.n%07a" source="DEX" label="sul" type="word" gloss="sul mobil de lemn sau de metal, pe care se infasoara lantul care tine galeata la o fantana"/>
+<sense id="valul_streangului.n%08a" source="DEX" label="valul_streangului" type="collocation" gloss="latul cu care se prinde streangul sau sleaul de crucea carutei"/>
+<sense id="val.n%09a" source="DEX" label="meterez" type="word" gloss="meterez de pamant care servea in antichitate ca fortificatie militara"/>
+</lexelt>
+
+
+<lexelt item="valoare.n">
+<sense id="valoare.n%01a" source="DEX" label="insusire" type="word" gloss="insusire a unor lucruri, fapte, idei, fenomene de a corespunde necesitatilor sociale si idealurilor generate de acestea; suma calitatilor care dau pret unui obiect, unei fiinte, unui fenomen, etc; importanta, insemnatate, merit"/>
+<sense id="de_valoare%01b" source="DEX" label="de_valoare" type="collocation" gloss="(despre lucruri) pretios, scump, de pret; (despre oameni) important, merituos; cu autoritate; valoros"/>
+<sense id="a_pune_in_valoare%01c" source="DEX" label="a_pune_in_valoare" type="collocation" gloss="a arata, a demonstra importanta, calitatile esentiale ale unei fiinte, ale unui lucru, ale unui fenomen tc.; a scoate in relief, a sublinia"/>
+<sense id="valoare.n%01d" source="DEX" label="ceva_important" type="word" gloss="ceea ce este important, valoros, vrednic de apreciere, de stima (din puncet de vedere material, social, moral etc.)"/>
+<sense id="valoare.n%01e" source="DEX" label="persoana" type="word" gloss="persoana vrednica de stima, cu insusiri deosebite"/>
+<sense id="valoare.n%02a" source="DEX" label="eficacitate" type="word" gloss="eficacitate, putere"/>
+<sense id="valoare.n%03a" source="DEX" label="munca" type="word" gloss="munca sociala necesara pentru producerea unei marfi si materializata in marfa"/>
+<sense id="valoare_de_intrebuintare.n%03b" source="DEX" label="proprietate" type="collocation" gloss="proprietate a unui lucru de a satisface o anumita necesitate a omului sau a societatii"/>
+<sense id="valoare_de_schimb.n%03c" source="DEX" label="raport" type="collocation" gloss="raport, proportie in care o anumita cantitate de marfa de un anumit fel se schimba cu o cantitate de marfa de alt fel"/>
+<sense id="valoare_a_fortei_de_munca.n%03d" source="DEX" label="valoare_a_fortei_de_munca" type="collocation" gloss="valoarea mijloacelor (de subzistenta) necesare pentru producerea si reproducerea fortei de munca (ca marfa)"/>
+<sense id="valoare.n%04a" source="DEX" label="marfa" type="word" gloss="marfa"/>
+<sense id="valoare.n%05a" source="DEX" label="cost" type="word" gloss="exprimare in bani a costului unei marfi sau a unei actiuni, a unui cec, etc."/>
+<sense id="valoare_comerciala.n%05b" source="DEX" label="valoare_comerciala" type="collocation" gloss="echivalent in bani a unui bun sau al unei marfi pe piata; curs"/>
+<sense id="valoare.n%05c" source="DEX" label="inscris" type="word" gloss="inscris (cec, cambie, obligatiune, etc.) reprezentand un drept in bani sau in bunuri de alta natura"/>
+<sense id="valoare_mobiliara.n%05d" source="DEX" label="valoare_mobiliare" type="collocation" gloss="inscris reprezentind un drept asupra unor bunuri mobiliare (marfa, bani etc.)"/>
+<sense id="valoare_imobiliara.n%05e" source="DEX" label="inscris" type="collocation" gloss="inscris reprezentind un drept asupra unor bunuri imobiliare (cladiri, pamint etc.)"/>
+<sense id="valoare.n%05f" source="DEX" label="rentabilitate" type="word" gloss="rentabilitate, productivitate"/>
+<sense id="valoare.n%06a" source="DEX" label="marime" type="word" gloss="marime matematica asociata unei marimi fizice (dupa un anumit procedeu de masurare), permitind compararea marimii cu altele de aceeasi natura"/>
+<sense id="valoare_absoluta.n%06b" source="DEX" label="valoare_absoluta" type="collocation" gloss="valoarea unei expresii matematice cind nu se tine seama de semnul (+ sau -) pe care il are"/>
+<sense id="valoare.n%06c" source="DEX" label="rezultat" type="word" gloss="rezultat al unui calcul, al unei operatii matematice etc."/>
+<sense id="valoare.n%07a" source="DEX" label="durata" type="word" gloss="durata absoluta sau relativa a unei note sau a unei pauze"/>
+<sense id="valoare.n%08a" source="DEX" label="efect" type="word" gloss="efect obtinut in pictura prin alaturarea a doua nuante diferite ale unui ton"/>
+<sense id="valoare.n%09a" source="DEX" label="sens" type="word" gloss="sens, nuanta de sens a unui cuvant"/>
+</lexelt>
+
+
+<lexelt item="cistiga.v">
+<sense id="cistiga.v%01a" source="DEX" label="a_cistiga_valori" type="word" gloss="a cistiga bani sau alte valori materiale (prin munca, speculatii, exploatare, jocuri de noroc, etc.)"/>
+<sense id="cistiga.v%01b" source="DEX" label="a_cistiga_timp" type="word" gloss="a cistiga timpul (pierdut)"/>
+<sense id="cistiga.v%02a" source="DEX" label="a_atrage" type="word" gloss="a atrage de partea sa; "cistigase simpatia tuturor""/>
+<sense id="cistiga.v%03a" source="DEX" label="a_obtine" type="word" gloss="a obtine, a cuceri victoria (intr-o competitie sportiva, intr-un proces, etc.)"/>
+<sense id="cistiga.v%04a" source="DEX" label="a_spori" type="word" gloss="a deveni mai bogat in, a-si spori continutul, calitatea, greutatea. "/>
+</lexelt>
+
+
+<lexelt item="citi.v">
+<sense id="citi.v%01a" source="DEX" label="a_parcurge" type="word" gloss="a parcurge un text (pronuntand cuvintele sau nu) pentru a lua la cunostinta de cele scrise"/>
+<sense id="citi.v%01b" source="DEX" label="a_rosti" type="word" gloss="a rosti, a urmari un text cu glas tare pentru a comunica cuiva continutul lui"/>
+<sense id="citi.v%01c" source="DEX" label="a_descifra" type="word" gloss="a descifra o partitura muzicala, urmarind cu ochii sunetele reprezentate si valorile lor (si a le reproduce cu vocea sau cu un instrument)"/>
+<sense id="citi.v%01d" source="DEX" label="a_interpreta" type="word" gloss="a interpreta indicatiile topografice ale unei harti sau ale unui plan si a reconstitui dupa ele conformatia terenului"/>
+<sense id="citi.v%01e" source="DEX" label="a_inregistra" type="word" gloss="a inregistra, a deslusi indicatiile date de un contor, de un barometru, de un indicator etc."/>
+<sense id="citi.v%02a" source="DEX" label="a_descoperi" type="word" gloss="a descoperi, a sesiza gandul, sentimentele ascunse etc. ale cuiva din atitudinea sau din expresia figurii sale"/>
+<sense id="citi.v%03a" source="DEX" label="a_invata" type="word" gloss="a invata, a studia (parcurgand scrieri, izvoare etc.)"/>
+<sense id="citi.v%03b" source="DEX" label="a_instrui" type="word" gloss="a se instrui, a se cultiva"/>
+<sense id="citi_in_stele%04a" source="DEX" label="a_citi_in_stele" type="collocation" gloss="a prezice cuiva viitorul dupa pozitia stelelor"/>
+<sense id="citi_in_palma%04b" source="DEX" label="a_citi_in_palma" type="collocation" gloss="a prezice cuiva viitorul, examinindu-i liniile din palma"/>
+</lexelt>
+
+
+<lexelt item="cobori.v">
+<sense id="cobori.v%01a" source="DEX" label="a_se_da_jos" type="word" gloss="a (se) da jos dintr-un loc ridicat sau dintr-un vehicul "/>
+<sense id="cobori_ochii.v%01b" source="DEX" label="a_cobori_ochii" type="collocation" gloss="a privi in jos, in pamint (de rusine, de timiditate)"/>
+<sense id="cobori.v%01c" source="DEX" label="a_se_deplasa" type="word" gloss="a se deplasa in jos, pe o panta sau loc inclinat"/>
+<sense id="cobori.v%01d" source="DEX" label="a_zbura" type="word" gloss="a zbura spre pamint, a veni din inaltime"/>
+<sense id="cobori.v%01e" source="DEX" label="a_apune" type="word" gloss="(despre soare sau luna) a apune"/>
+<sense id="cobori.v%01f" source="DEX" label="a_abdica" type="word" gloss="a renunta la domnie, la tron; a abdica"/>
+<sense id="cobori.v%02a" source="DEX" label="a_se_lasa" type="word" gloss="(despre intuneric, noapte, ceata, etc) a se lasa, a cadea, a sosi"/>
+<sense id="cobori.v%03a" source="DEX" label="a_scadea" type="word" gloss="(despre coloana de mercur a termometrului, despre temperatura, etc.) a scadea"/>
+<sense id="cobori.v%04a" source="DEX" label="a_vorbi" type="word" gloss="a schimba inaltimea glasului, trecind la un registru mai profund; a vorbi, a cinta cu glas mai scazut"/>
+<sense id="cobori.v%05a" source="DEX" label="a_se_trage" type="word" gloss="a-si avea originea, a se trage din"/>
+<sense id="cobori.v%06a" source="DEX" label="a_se_injosi" type="word" gloss="a se injosi						   "/>
+</lexelt>
+
+
+<lexelt item="conduce.v">
+<sense id="conduce.v%01a" source="DEX" label="a_indruma" type="word" gloss="a indruma un grup de oameni, o institutie, o organizatie, avind intreaga raspundere a muncii in domeniul respectiv"/>
+<sense id="conduce.v%01b" source="DEX" label="a_dirija" type="word" gloss="a dirija o discutie, a supraveghea desfasurarea unei dezbateri"/>
+<sense id="conduce.v%02a" source="DEX" label="a_se_orienta" type="word" gloss="a se orienta dupa, a se comporta dupa"/>
+<sense id="conduce.v%03a" source="DEX" label="a_insoti" type="word" gloss="a insoti pe cineva"/>
+<sense id="conduce.v%04a" source="DEX" label="a_conduce_vehicul" type="word" gloss="a dirija mersul unui vehicul, al unei masini, etc."/>
+<sense id="conduce.v%05a" source="DEX" label="a_conduce_la_scor" type="word" gloss="a conduce in competitii, evaluari"/>
+<sense id="conduce.v%06a" source="DEX" label="a_duce_la" type="word" gloss="a determina o anumita actiune, eveniment, etc."/>
+</lexelt>
+
+
+<lexelt item="creste.v">
+<sense id="creste.v%01a" source="DEX" label="a_mari" type="word" gloss="a se mari treptat, a deveni mai mare ca rezultat al proceselor vitale din organism; a se dezvolta"/>
+<sense id="sa_cresti_mare%01b" source="DEX" label="sa_cresti_mare" type="collocation" gloss="formula de salut sau de multumire, adresata de obicei unui copil"/>
+<sense id="creste_vazind_cu_ochii%01c" source="DEX" label="a_creste_vazind_cu_ochii" type="collocation" gloss="a creste neobisnuit de repede"/>
+<sense id="creste.v%01d" source="DEX" label="regenera" type="word" gloss="a se reface, a se regenera"/>
+<sense id="creste.v%01e" source="DEX" label="evolua" type="word" gloss="a-si ridica nivelul politic, profesional, cultural; a evolua"/>
+<sense id="creste.v%02a" source="DEX" label="petrece" type="word" gloss="a-si petrece copilari, a trai primii ani din viata (intr-un loc)"/>
+<sense id="creste.v%03a" source="DEX" label="ingriji" type="word" gloss="a ingriji, a educa (un copil)"/>
+<sense id="creste.v%03b" source="DEX" label="prasi" type="word" gloss="a prasi, a inmulti, a ingriji animale sau pasari"/>
+<sense id="creste.v%03c" source="DEX" label="cultiva" type="word" gloss="a cultiva plante"/>
+<sense id="creste.v%04a" source="DEX" label="spori" type="word" gloss="a se mari, a spori (ca numar, volum, intensitate, durata, etc.)"/>
+<sense id="creste_inima%04b" source="DEX" label="creste_inima" type="collocation" gloss="se spune cind cineva simte o bucurie, o multumire deosebita"/>
+<sense id="creste.v%04c" source="DEX" label="vedea" type="word" gloss="a se vedea din ce in ce mai mare (pe masura ce se apropie)"/>
+<sense id="creste.v%05a" source="DEX" label="dospi" type="word" gloss="(aluat) a se umfla, a se ridica prin dospire"/>
+<sense id="creste.v%06a" source="DEX" label="umfla" type="word" gloss="(ape) a-si mari volumul, a se umfla"/>
+</lexelt>
+
+
+<lexelt item="deriva.v">
+<sense id="deriva.v%01a" source="DEX" label="a_se_trage" type="word" gloss="a se trage, a proveni, a rezulta din"/>
+<sense id="deriva.v%01b" source="DEX" label="a-si_trage_originea" type="word" gloss="(despre limba, cuvinte, si sensul lor) a-si trage originea din; a arata provenienta unui cuvint din altul"/>
+<sense id="deriva.v%01c" source="DEX" label="a_se_forma" type="word" gloss="(despre cuvinte, de obicei cu determinari introduse prin prep. "de la"), a se forma cu ajutorul unui sufix sau prefix"/>
+<sense id="deriva.v%02a" source="DEX" label="a_abate" type="word" gloss="a abate o apa curgatoare din albia ei naturala in alta albie sau intr-un canal"/>
+<sense id="deriva.v%02b" source="DEX" label="a_indrepta" type="word" gloss="a indrepta vehiculele de pe o cale de comunicatie pe alta cale"/>
+<sense id="deriva.v%02c" source="DEX" label="a_ramifica" type="word" gloss="a ramifica o cale de comunicatie sau un canal de la traseul principal pentru a forma un traseu secundar"/>
+<sense id="deriva.v%03a" source="DEX" label="a_calcula" type="word" gloss="a calcula derivata unei functii"/>
+<sense id="deriva.v%04a" source="DEX" label="a_se_abate" type="word" gloss="(despre un vas plutitor) a se abate, a se departa din drumul sau normal, prin actiunea vintului sau a unui curent; a devia"/>
+</lexelt>
+
+
+<lexelt item="desena.v">
+<sense id="desena.v%01a" source="DEX" label="a_executa" type="word" gloss="a executa un desen"/>
+<sense id="desena.v%02a" source="DEX" label="a_aparea" type="word" gloss="a aparea, a iesi in evidenta; a se profila, a se contura"/>
+<sense id="desena.v%03a" source="DEX" label="a_schita" type="word" gloss="a schita, a contura o problema, o chestiune"/>
+</lexelt>
+
+
+<lexelt item="desface.v">
+<sense id="desface.v%01a" source="DEX" label="a_descompune" type="word" gloss="a (se) descompune in partile componente"/>
+<sense id="desface.v%01b" source="DEX" label="a_reface" type="word" gloss="a face ca ceva efectuat sa revina la starea anterioara"/>
+<sense id="desface.v%01c" source="DEX" label="a_anula" type="word" gloss="a anula o invoiala, un contract etc."/>
+<sense id="desface.v%02a" source="DEX" label="a_desprinde" type="word" gloss="a (se) desprinde din locul sau din legatura in care este prins, fixat"/>
+<sense id="desface.v%03a" source="DEX" label="a_desparti" type="word" gloss="a (se) desparti, a (se) separa de cineva sau de ceva"/>
+<sense id="desface.v%04a" source="DEX" label="a_deschide" type="word" gloss="a deschide un obiect, dezlegandu-l, taindu-l, ridicindu-i capacul, etc."/>
+<sense id="desface.v%04b" source="DEX" label="a_desfasura" type="word" gloss="a desfasura, deschizand, intinzand, rasfirand; a despaturi"/>
+<sense id="desface_patul%04c" source="DEX" label="desface_patul" type="collocation" gloss="a pregati patul pentru dormit"/>
+<sense id="desface.v%04d" source="DEX" label="a_deschide" type="word" gloss="a-si deschide petalele"/>
+<sense id="desface.v%05a" source="DEX" label="a_vinde" type="word" gloss="a vinde produse; a lichida prin vinzare"/>
+<sense id="desface.v%06a" source="DEX" label="" type="collocation" gloss="(superstitii) a nimici vraja sau farmecul care apasa asupra cuiva"/>
+</lexelt>
+
+
+<lexelt item="fierbe.v">
+<sense id="fierbe.v%01a" source="DEX" label="a_clocoti" type="word" gloss="a trece sau a face sa treaca (un lichid) in stare de vapori, prin formarea, sub actiunea caldurii, in intreaga masa a lichidului a unor bule de vapori care se ridica la suprafata"/>
+<sense id="fierbe.v%01b" source="DEX" label="a_clocoti" type="word" gloss="(subiectul e vasul in care clocoteste un lichid)"/>
+<sense id="unde_nu-i_fierbe_oala%01c" source="DEX" label="unde_nu-i_fierbe_oala" type="collocation" gloss="a interveni acolo unde nu are ce cauta, in probleme care nu-l privesc"/>
+<sense id="fierbe.v%01d" source="DEX" label="a_fi_efervescent" type="word" gloss="a fi in stare de efervescenta (din cauza fermentarii)"/>
+<sense id="fierbe.v%01e" source="DEX" label="a_agita" type="word" gloss="a se agita puternic, a face valuri mari si zgomotoase"/>
+<sense id="fierbe.v%02a" source="DEX" label="a_gati" type="word" gloss="a se afla introdus intr-un lichid care fierbe, pentru a deveni bun de mincat"/>
+<sense id="fierbe.v%02b" source="DEX" label="a_supune_la_fiert" type="word" gloss="a supune un corp actiunii fierberii apei (fierb rufele)"/>
+<sense id="fierbe.v%03a" source="DEX" label="a_fi_agitat" type="word" gloss="a fi cuprins de o mare framantare, a fi in tensiune, a fi agitat"/>
+<sense id="fierbe.v%03b" source="DEX" label="a_necaji" type="word" gloss="a necaji, a chinui pe cineva, a tine pe cineva intr-o stare de agitatie, de tensiune"/>
+<sense id="fierbe.v%03c" source="DEX" label="a_pregati" type="word" gloss="a pune la cale, a pregati in mod febril (si in ascuns) o actiune (reprobabila); a coace"/>
+<sense id="fierbe.v%04a" source="DEX" label="a_rasuna" type="word" gloss="a vui, a rasuna, a clocoti de zgomot"/>
+</lexelt>
+
+
+<lexelt item="indulci.v">
+<sense id="indulci.v%01a" source="DEX" label="a_face_mai_dulce" type="word" gloss="a face ca o mancare sau o bautura sa fie (mai) dulce (prin adaos de zahar, miere, etc); a face mai gustos"/>
+<sense id="indulci.v%01b" source="DEX" label="a_minca" type="word" gloss="a minca dintr-o mincare gustoasa; a se infrupta"/>
+<sense id="se_indulci_la_ceva%01c" source="DEX" label="a_se_indulci_la_ceva" type="collocation" gloss="a descoperi un lucru bun si a-l cauta mereu; a se deda la ..."/>
+<sense id="indulci.v%02a" source="DEX" label="a_se_infrupta" type="word" gloss="a trage folos, a se infrupta"/>
+<sense id="indulci.v%03a" source="DEX" label="a_desfata" type="word" gloss="a face mai bun, a satisface; a umple de multumire; a desfata"/>
+<sense id="indulci.v%04a" source="DEX" label="a_estompa" type="word" gloss="a face mai putin aspru, mai putin dur, mai putin violent; a domoli, a estompa"/>
+<sense id="indulci.v%04b" source="DEX" label="a_imbuna" type="word" gloss="a (se) imbuna, a (se) imblanzi"/>
+</lexelt>
+
+
+<lexelt item="simplu.a">
+<sense id="simplu.a%01a" source="DEX" label="ne-impartit" type="word" gloss="care este fortmat dintr-un singur element sau din citeva elemente omogene; care nu se poate imparti in elemente de natura diferita, care nu este amestecat"/>
+<sense id="floare_simpla.a%01b" source="DEX" label="floare_simpla" type="collocation" gloss="floare a carei corola este compusa dintr-un singur rind de petale"/>
+<sense id="perfect_simplu.a%01c" source="DEX" label="perfect_simplu" type="collocation" gloss="timp verbal simplu al modului indicative care indica o actiune trecuta, terminata de curind"/>
+<sense id="timp_simplu.a%01d" source="DEX" label="timp_simplu" type="collocation" gloss="timp verbal care se conjuga fara ajutorul verbelor auxiliare"/>
+<sense id="frunza_simpla.a%01e" source="DEX" label="frunza_simpla" type="collocation" gloss="frunza alcatuita dintr-un singur limb"/>
+<sense id="simplu.a%02a" source="DEX" label="neprefacut" type="word" gloss="care este lipsit de artificialitate, neprefacut, care nu prezinta dificultati, usor de facut"/>
+<sense id="simplu.a%03a" source="DEX" label="o_data" type="word" gloss="care este intr-un singur plan, care se intimpla o singura data"/>
+<sense id="simplu.a%03b" source="DEX" label="singur_plan" type="word" gloss="(sport, despre o partida) care are loc intre doi adversari; in care confruntarea are loc intre adversari individuali"/>
+<sense id="simplu.a%04a" source="DEX" label="modest" type="word" gloss="lipsit de podoabe, modest"/>
+<sense id="simplu.a%04b" source="DEX" label="inferior" type="word" gloss="care este inferior ca pret sau calitate, fara valoare"/>
+<sense id="simplu.a%05a" source="DEX" label="cinstit" type="word" gloss="(despre oameni si manifestarile lor) lispsit de rafinament, de afectare, de prefacatorie; sincer, cinstit"/>
+<sense id="simplu.a%05b" source="DEX" label="necioplit" type="word" gloss="lipsit de cultura; necioplit, badaran"/>
+<sense id="simplu.a%06a" source="DEX" label="doar" type="word" gloss="(precedind numele, inlocuieste un adverb) numai, doar, nimic mai mult; sadea, curat"/>
+<sense id="simplu_ca_buna_ziua%06b" source="DEX" label="simplu_ca_buna_ziua" type="collocation" gloss="foarte simplu"/>
+<sense id="simplu_muritor%06c" source="DEX" label="simplu_muritor" type="collocation" gloss="om obisnuit"/>
+</lexelt>
+
+
+<lexelt item="natural.a">
+<sense id="natural.a%01a" source="DEX" label="in_natura" type="word" gloss="care se refera la natura, care apartine naturii; care se gaseste in natura"/>
+<sense id="bogatie_naturala.a%01b" source="DEX" label="bogatie_naturala" type="collocation" gloss="bogatie a solului sau a subsolului, a unei regiuni sau a unei tari"/>
+<sense id="stiintele_naturale.a%01c" source="DEX" label="stiintele_naturale" type="collocation" gloss="stiintele naturii"/>
+<sense id="granita_naturala.a%01d" source="DEX" label="granita_naturala" type="collocation" gloss="granita marcata de o apa sau de o forma de relief"/>
+<sense id="drept_natural.a%01e" source="DEX" label="drept_natural" type="collocation" gloss="drept considerat ca imuabil si universal, care ar exista in afara structurilor sociale"/>
+<sense id="natural.a%02a" source="DEX" label="veritabil" type="word" gloss="care este generat, produs, creat de natura; veritabil, curat, pur"/>
+<sense id="natural.a%03a" source="DEX" label="simplu" type="word" gloss="care este lipsit de artificiu, de rafinament, de afectare, simplu; care se realizeaza spontan, fara efort sau constringere"/>
+<sense id="natural.a%04a" source="DEX" label="nativ" type="word" gloss="care este conform cu natura cuiva, innascut, nativ; propriu, specific cuiva"/>
+<sense id="natural.a%05a" source="DEX" label="normal" type="word" gloss="care concorda, se potriveste cu faptele din realitatea obiectiva, cu ordinea fireasca a lucrurilor, normal, firesc"/>
+<sense id="moarte_naturala.a%05b" source="DEX" label="moarte_naturala" type="collocation" gloss="moarte survenita in chip firesc, moarte buna"/>
+<sense id="marime_naturala.a%05c" source="DEX" label="marime_naturala" type="collocation" gloss="(reproducere in) marime reala a modelului, in artele plastice si in fotografie"/>
+<sense id="natural.a%05d" source="DEX" label="nelegitim" type="word" gloss="(despre copii) nascut in afara casatoriei, nelegitim"/>
+</lexelt>
+
+
+<lexelt item="oficial.a">
+<sense id="oficial.a%01a" source="DEX" label="stabilit_prin_lege" type="word" gloss="care emana de la o autoritate, de la un guvern, de la un stat, stabilit prin lege"/>
+<sense id="buletinul_oficial.a%01b" source="DEX" label="buletinul_oficial" type="collocation" gloss="periodic in care se publica legile, regulamentele, decretele etc. autoritatilor de stat"/>
+<sense id="oficial.a%01c" source="DEX" label="stil_oficial" type="word" gloss="propriu actelor guvernamentale, documentelor administratiei de stat; in stilul, in maniera actelor, a documentelor autoritatilor, ale statului"/>
+<sense id="oficial.a%02a" source="DEX" label="aprobat" type="word" gloss="care se conformeaza legilor, regulilor, formalitatilor, traditiilor (unui stat); aprobat, convenit intre autoritati"/>
+<sense id="oficial.a%03a" source="DEX" label="formal" type="word" gloss="de o politete rece, calculata; solemn, formal, stereotip"/>
+</lexelt>
+
+
+<lexelt item="incet.a">
+<sense id="incet.a%01a" source="DEX" label="linistit" type="word" gloss="fara viteza, linistit, lin, domol"/>
+<sense id="incet.a%01b" source="DEX" label="om_lent" type="word" gloss="(despre oameni) care reactioneaza cu intirziere, care face ceva in ritm lent"/>
+<sense id="incet.a%01c" source="DEX" label="gindire_lenta" type="word" gloss="(despre judecata, gindire)  care reactioneaza cu greutate; greoi"/>
+<sense id="incet.a%02a" source="DEX" label="slab_auzit" type="word" gloss="(despre melodii, sunete) cu intensitate scazuta, abia auzit"/>
+<sense id="incet.a%03a" source="DEX" label="domol" type="word" gloss="fara graba, domol, binisor, alene; lin, pe nesimtite	   "/>
+<sense id="incetul_cu_incetul.a%03b" source="DEX" label="incetul_cu_incetul" type="collocation" gloss="incetul cu incetul, incet-incet"/>
+</lexelt>
+
+
+<lexelt item="neted.a">
+<sense id="neted.a%01a" source="DEX" label="lucios" type="word" gloss="care are suprafata dreapta, fara asperitati; lucios, alunecos"/>
+<sense id="muschi_neted.a%01b" source="DEX" label="muschi_neted" type="collocation" gloss="muschi sau musculatura care nu prezinta striatii"/>
+<sense id="neted.a%01b" source="DEX" label="catifelat" type="word" gloss="(despre piele) fara creturi, fara zbircituri, intins, catifelat, matasos"/>
+<sense id="neted.a%01c" source="DEX" label="lins" type="word" gloss="(despre par) intins, lins"/>
+<sense id="neted.a%02a" source="DEX" label="drept" type="word" gloss="(despre suprafete, locuri, terenuri) care este drept, fara asperitati, care este lipsit de denivelari, de accidente; intins, plan"/>
+<sense id="neted.a%02b" source="DEX" label="lin" type="word" gloss="(despre drumuri) fara hopuri sau fagasuri, plat, drept, uniform, lin"/>
+<sense id="neted.a%03a" source="DEX" label="clar" type="word" gloss="clar, precis, limpede, deslusit; deschis, fatis, direct"/>
+</lexelt>

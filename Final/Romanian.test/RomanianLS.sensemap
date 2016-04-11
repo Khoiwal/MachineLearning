@@ -1,0 +1,208 @@
+a_avea_ac_de_cojocul_cuiva%01b 5 ac.n%01a
+a_cauta_acul_in_carul_cu_fan%01f 5 ac.n%01a
+a_umbla_ca_pe_ace%01c 5 ac.n%01a
+nici_cat_un_virf_de_ac%01e 5 ac.n%01a
+ac.n%02a
+ac.n%03a
+ac.n%04a
+ac.n%05a
+a_pune_accent%01c 2 accent.n%01a
+accent.n%02a
+accent.n%03a
+actiune.n%01a 4 actiune.n%01f
+actiune.n%01e 4 actiune.n%01f
+a_trece_la_actiune%01d 4 actiune.n%01f
+actiune.n%02a
+actiune.n%03a
+actiune.n%04a
+actiune.n%05a
+canal.n%01a 4 canal.n%01d
+canal.n%01b 4 canal.n%01d
+canal.n%01c 4 canal.n%01d
+canal.n%02a
+canal.n%03a
+circuit.n%01a 2 circuit.n%01b
+circuit.n%02a 3 circuit.n%02c
+circuit.n%02b 3 circuit.n%02c
+circuit.n%03a 2 circuitul_apei_in_natura.n%03b
+circulatie.n%01a
+circulatie.n%02a
+circulatie.n%03a
+a_fi_in_circulatie%04c 5 circulatie.n%04a 
+a_pune_in_circulatie%04d 5 circulatie.n%04a 
+a_scoate_din_circulatie%04e 5 circulatie.n%04a 
+de_mare_circulatie%04b 5 circulatie.n%04a 
+cistiga.v%01a 2 cistiga.v%01b
+cistiga.v%02a
+cistiga.v%03a
+cistiga.v%04a
+citi.v%01a 4 citi.v%01e
+citi.v%01b 4 citi.v%01e
+citi.v%01c 4 citi.v%01e
+citi.v%02a
+citi.v%03a 2 citi.v%03b
+citi_in_palma%04b
+cobori.v%01a 3 cobori.v%01d
+cobori.v%01c 3 cobori.v%01d
+cobori.v%02a
+cobori.v%03a
+cobori.v%04a
+cobori.v%05a
+cobori.v%06a
+conduce.v%01a 2 conduce.v%01b
+conduce.v%02a
+conduce.v%03a
+conduce.v%04a
+conduce.v%05a
+conduce.v%06a
+coroana.n%01a 2 coroana.n%01b
+coroana.n%02a 2 coroana.n%02b
+coroana.n%03a
+coroana.n%04a
+coroana.n%05a
+coroana.n%06a 2 coroana.n%06b
+coroana_solara.n%08b
+creste.v%01a 3 creste.v%01e
+sa_cresti_mare%01b 3 creste.v%01e
+creste.v%03a 3 creste.v%03c
+creste.v%03b 3 creste.v%03c
+creste.v%04a
+creste.v%06a
+delfin.n%01a
+delfin.n%04a
+delfin.n%05a
+demonstratie.n%01a 2 demonstratie.n%01b
+demonstratie.n%02a
+demonstratie.n%03a
+demonstratie_de_forta.n%04b 2 demonstratie.n%04a
+desena.v%01a
+desena.v%02a
+desena.v%03a
+desface.v%01a 3 desface.v%01c
+desface.v%01b 3 desface.v%01c
+desface.v%02a
+desface.v%03a
+desface.v%04a 3 desface.v%04d
+desface.v%04b 3 desface.v%04d
+desface.v%05a
+desface.v%06a
+eruptie.n%01a
+eruptie.n%02a
+fierbe.v%01a 5 fierbe.v%01e
+fierbe.v%01b 5 fierbe.v%01e
+unde_nu-i_fierbe_oala%01c 5 fierbe.v%01e
+fierbe.v%01d 5 fierbe.v%01e
+fierbe.v%02a 2 fierbe.v%02b
+fierbe.v%03a 3 fierbe.v%03c
+fierbe.v%03b 3 fierbe.v%03c
+fierbe.v%04a
+geniu.n%01a 2 geniu.n%01b
+geniu.n%02a
+geniu.n%03a
+geniu.n%04a
+incet.a%01a 3 incet.a%01c
+incet.a%01b 3 incet.a%01c
+incet.a%02a
+incetul_cu_incetul.a%03b 2incet.a%03a 
+indulci.v%01a 2 indulci.v%01b
+indulci.v%02a
+indulci.v%03a
+indulci.v%04a 2 indulci.v%04b
+granita_naturala.a%01d 4 natural.a%01a
+bogatie_naturala.a%01b 4 natural.a%01a
+stiintele_naturale.a%01c 4 natural.a%01a
+natural.a%05a 4 natural.a%05d
+marime_naturala.a%05c 4 natural.a%05d
+moarte_naturala.a%05b 4 natural.a%05d
+natural.a%02a
+natural.a%03a
+natural.a%04a
+neted.a%01a 3 neted.a%01c
+neted.a%01b 3 neted.a%01c
+neted.a%02a 2 neted.a%02b
+neted.a%03a
+nucleu.n%03a
+nucleu.n%04a
+nucleu.n%04b
+oficial.a%01a 3 oficial.a%01c
+buletinul_oficial.a%01b 3 oficial.a%01c
+oficial.a%02a
+oficial.a%03a
+in_opozitie_cu%01b
+a_face_opozitie%02b 2 opozitie.n%02a
+opozitie.n%03a
+opozitie.n%07a
+perie.n%01a 2 perie.n%01b
+perie.n%02a
+pictura.n%01a
+pictura.n%02a 3 pictura.n%02c
+pictura.n%02b 3 pictura.n%02c
+pictura.n%03a
+platforma_de_lansare.n%01b 3 platforma.n%01c
+platforma.n%01a 3 platforma.n%01c
+platforma.n%02a 2 platforma.n%02b
+platforma.n%03a
+platforma.n%04a
+platforma.n%05a
+platforma.n%06a
+platforma.n%07a
+platforma.n%08a
+port.n%01a
+port.n%02a
+port.n%03a 2 port.n%03c
+port.n%04a
+port.n%05a
+problema.n%01a
+problema.n%02a
+problema.n%03a 2 problema.n%03b
+problema.n%04a
+problema.n%05a
+a_intenta_proces%01b 2 proces.n%01a
+proces_chimic.n%02b 2 proces.n%02a
+proces-verbal.n%01f
+reactie.n%01a
+reactie.n%02a
+reactie.n%03a
+reactie_nucleara.n%04a
+reactie.n%05a
+reactie.n%06a
+perfect_simplu.a%01c 2 simplu.a%01a
+simplu.a%02a
+simplu.a%03a 2 simplu.a%03b
+simplu.a%04a 2 simplu.a%04b
+simplu.a%05a 2 simplu.a%05b
+simplu_ca_buna_ziua%06b 2 simplu.a%06a
+simplu_muritor%06c 2 simplu.a%06a
+stil.n%01a 4 stil.n%01e
+stil.n%01c 4 stil.n%01e
+stil.n%01d 4 stil.n%01e
+stil.n%02a 4 stil.n%02c
+de_stil%02b 4 stil.n%02c
+in_stil_mare%02d 4 stil.n%02c
+stil_nou.n%03b 2 stil_vechi.n%03c
+timbru_comemorativ.n%01c 3 timbru.n%01a
+timbru_sec.n%01b 3 timbru.n%01a
+timbru.n%02a 2 timbru.n%02b
+tip.n%01a
+tip.n%02a 3 tip.n%02d
+tip.n%02c 3 tip.n%02d
+tip.n%03a
+tip.n%04a
+val-virtej%01b 4 val.n%01a
+valurile_vremii%01f 4 val.n%01a
+in_valuri%01c 4 val.n%01a
+val.n%02a
+val.n%03a
+val.n%04a
+valoare.n%01a 5 valoare.n%01e
+de_valoare%01b 5 valoare.n%01e
+a_pune_in_valoare%01c 5 valoare.n%01e
+valoare.n%01d 5 valoare.n%01e
+valoare.n%04a
+valoare.n%05a 6 valoare.n%05f
+valoare.n%05c 6 valoare.n%05f
+valoare_comerciala.n%05b 6 valoare.n%05f
+valoare_imobiliara.n%05e 6 valoare.n%05f
+valoare_mobiliara.n%05d 6 valoare.n%05f
+valoare_absoluta.n%06b 3 valoare.n%06c
+valoare.n%06a 3 valoare.n%06c

@@ -1,0 +1,45 @@
+ -----------------------------------------------------------
+  Lexical unit    Training size    Test size  Unlabeled size
+ -----------------------------------------------------------
+  accent.n		172		87		125
+  ac.n			127		65		90
+  actiune.n		261		128		7938
+  canal.n		134		66		820
+  circuit.n		200		101		74
+  circulatie.n		221		114		1637
+  cistiga.v		227		115		5062
+  citi.v		259		130		611
+  cobori.v		252		128		420
+  conduce.v		265		134		3147
+  coroana.n		252		126		73
+  creste.v		209		103		1160
+  delfin.n		31		15		12
+  demonstratie.n	229		115		125
+  desena.v		54		27		0
+  desface.v		115		58		13
+  eruptie.n		54		27		0
+  fierbe.v		83		43		5
+  geniu.n		106		54		1
+  incet.a		224		113		410
+  indulci.v		19		10		1
+  natural.a		242		123		1941
+  neted.a		34		17		7
+  nucleu.n		64		33		0
+  oficial.a		185		96		9435
+  opozitie.n		266		134		1181
+  perie.n		46		24		11
+  pictura.n		221		111		261
+  platforma.n		226		116		175
+  port.n		219		108		259
+  problema.n		262		131		17447
+  proces.n		166		82		3536
+  reactie.n		261		131		922
+  simplu.a		153		82		5298
+  stil.n		199		101		904
+  timbru.n		231		116		99
+  tip.n			263		131		5195
+  val.n			242		121		879
+  valoare.n		251		125		7756
+ -----------------------------------------------------------
+  Total            	7025             3541          77030        
+ -----------------------------------------------------------

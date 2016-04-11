@@ -1,0 +1,81 @@
+SENSEVAL-3 Evaluation Exercise
+Romanian Lexical Sample Task
+
+March 13!, 2004
+
+
+[Task description]
+
+The goal of this task is to create a framework for the evaluation 
+of systems that perform supervised Word Sense Disambiguation for
+Romanian. 
+The data was collected via the Open Mind Word Expert (OMWE) 
+interface (online at http://www.teach-computers.org/) 
+To ensure reliability, we collected at least two tags per item, 
+and conducted inter-tagger agreement and replicability tests. 
+Previously performed evaluations have proved the quality and 
+usefulness of the OMWE data. 
+We are providing training, test, and unlabeled data for 39 
+ambiguous nouns, verbs, and adjectives. 
+The senses and multi-word expressions for each ambiguous word are 
+obtained from DEX (a widely recognized dictionary of the Romanian 
+language). 
+A sensemap is also provided, to enable both fine grained and coarse 
+grained evaluations.
+This task is coordinated with other lexical-sample tasks (Basque, 
+Catalan, English, Italian, Spanish) in order to share around 10 
+of the target words. 
+
+ 
+[Sense inventory]
+
+Word definitions and collocations including the target words are
+from the DEX dictionary (Dictionar EXplicativ al Limbii Romane)
+
+
+[Corpus]
+
+All examples are drawn from the ROCO corpus -- a 400 million words 
+corpus, consisting of a collection of Romanian newspapers collected 
+on the Web over a three years period (1999-2002). 
+Prior to annotation, the text was tokenized. 
+We also provide a part of speech tagged version (the part of speech
+annotation was done at RACAI, Romania, by Dan Tufis)
+
+[Data files]
+
+The data set distributed for this task includes the following files:
+
+RomanianLS.README	       	- this file 
+RomanianLS.words          	- lists of words in the data set, and 
+                                  corresponding size of training/test/
+                                  unlabeled data
+RomanianLS.dictionary.xml     	- sense inventory used in the annotation
+RomanianLS.train              	- file containing training examples for all 
+                                  words in the data set
+RomanianLS.pos.train	  	- training examples, with part of speech annotation
+RomanianLS.train.key            - answer key for training examples
+RomanianLS.test                 - file containing test examples for all words 
+			          in the data set
+RomanianLS.pos.tes  		- test examples, with part of speech annotation
+RomanianLS.test.key         	- answer key for test examples
+                             	  (distributed only after the evaluation is
+                              	  concluded)
+RomanianLS.unlabeled		- unlabeled examples
+				  (note: based on all examples available in the ROCO 
+                                   corpus minus the examples already annotated as training
+                                   or test examples; some words may have large number of
+                                   unlabeled examples, some may have no unlabeled examples;
+                                   this data distribution is in agreement with the natural
+                                   distribution of data in the ROCO corpus)
+RomanianLS.pos.unlabeled	- unlabeled examples, with part of speech annotation
+RomanianLS.sensemap            	- sensemap that groups similar senses together
+
+
+
+[Task Coordinators]
+
+Rada Mihalcea, rada@cs.unt.edu 
+Vivi Nastase, vnastase@site.uottawa.edu 
+Dan Tufis, tufis@racai.ro 
+Tim Chklovski, timc@mit.edu 
