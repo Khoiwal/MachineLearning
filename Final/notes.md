@@ -1,3 +1,8 @@
 semisupervised approach:
 
-randomly sample %10 of the test data- run classifier on them, add to training data, retrain classifier, run on remaining test 
+timbl will output distances for unlabled calssified examples
+take the 10 smallest distances from unlabled set
+add those with their senseids to the training data
+retrain the model
+run on test for results
+rinse repeat 

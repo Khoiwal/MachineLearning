@@ -1,3 +1,5 @@
+from nltk import stem
+
 #flags for parsing lines as they come in
 parsing = False
 instance = False
@@ -10,15 +12,16 @@ sublist = []
 outlist = [[]]
 
 def cleanWords(words):       
-    punct = set([',','_','\"','\'',':','(',')','[',']'])  
-    clean_word_list = []
+    punct = set([',','_','\"','\'',':','(',')','[',']','-'])  
+    clean_lemmas = []
     for word in words:
-        if not word:
-            clean_word_list.append(str(word))
-        else:
+        if word:          
             word = "".join([ch for ch in word if ch not in punct]).lower()
-            clean_word_list.append(word)
-    return(clean_word_list)
+            #lemmatize = stem.snowball.RomanianStemmer(ignore_stopwords=False)
+            #word = lemmatize.stem(word)
+        if not word: word = "X"
+        clean_lemmas.append(word)
+    return(clean_lemmas)
 
 def parse_file(infile,lex):
     #flags for parsing lines as they come in
@@ -80,30 +83,40 @@ def parse_file(infile,lex):
                 count = -1
                 for word in words:
                         
-                    contexts = [None]*8
+                    contexts = [None]*7
                     count += 1
                     #triggers collection of nearby words if current word is tagged as an instance
                     if word.startswith("<head>"):
-                        contexts[0] = words[count-2]
-                        contexts[1] = words[count-1]
-                        contexts[4] = words[count-2]+ '_' + words[count-1]
+                        #this part accounts for the head being the first or second word
+                        if count == 0:
+                            contexts[0] = ""
+                            contexts[1] = ""
+                            contexts[4] = ""
+                        elif count == 1:
+                            contexts[0] = ""
+                            contexts[1] = words[count-1]
+                            contexts[4] = "_" + words[count-1]
+                        else:
+                            contexts[0] = words[count-2]
+                            contexts[1] = words[count-1]
+                            contexts[4] = words[count-2]+ "_" + words[count-1]
+                        #this part account for the head being the final or penultimate word
                         if words[count+2]:
                             contexts[2] = words[count+1]
                             contexts[3] = words[count+2]
-                            contexts[5] = words[count-1] + '_' + words[count+1]
-                            contexts[6] = words[count+1] + '_' + words[count+2]
+                            contexts[5] = words[count-1] + "_" + words[count+1]
+                            contexts[6] = words[count+1] + "_" + words[count+2]
                         elif words[count+1]:
                             contexts[2] = words[count+1]
-                            contexts[3] = ''
-                            contexts[5] = words[count-1] + '_' + words[count+1]
-                            contexts[6] = words[count+1] + '_' + '' 
+                            contexts[3] = ""
+                            contexts[5] = words[count-1] + "_" + words[count+1]
+                            contexts[6] = words[count+1] + "_" 
                         else:
-                            contexts[2] = ''
-                            contexts[3] = ''
-                            contexts[5] = words[count-1] + '_' + ''
-                            contexts[6] = '' + '_' + '' 
-                            contexts[7] = words[1]
-    
+                            contexts[2] = ""
+                            contexts[3] = ""
+                            contexts[5] = words[count-1] + "_" 
+                            contexts[6] = "" 
+                            
                         #print("xxxxx")
                         outlist.append(cleanWords(contexts))                         
                         sensids.append(sensid)         
@@ -123,34 +136,23 @@ for lex in lexes:
     test_contexts, test_sensids = parse_file(testin, lex)
     train_contexts, train_sensids = parse_file(trainin, lex)
 
-    test_feature_file = lex + ".features.test.tsv"
-    test_class_file = lex + ".class.test.txt"
-
-    train_feature_file = lex + ".features.train.tsv"
-    train_class_file = lex + ".class.train.txt"
-
-    with open(test_feature_file, 'w') as out: 
-        for word_list in test_contexts:
-            for word in word_list:
-                out.write(str(word) + "\t")       
-            out.write("\n")
-
-    with open(test_class_file, 'w') as out:
-        for sensid in test_sensids:
-            #print(sensid)
-            out.write(sensid + '\n')
+    test_feature_file = lex + ".words.test.tsv"
+    train_feature_file = lex + ".words.train.tsv"
     
-    with open(train_feature_file, 'w') as out: 
-        for word_list in train_contexts:
-            for word in word_list:
+    with open(test_feature_file, 'w') as out: 
+        for i in range(0,len(test_sensids)):
+            for word in test_contexts[i]:
                 out.write(str(word) + "\t")       
-            out.write("\n")
+            out.write(test_sensids[i]+'\n')
+  
+    with open(train_feature_file, 'w') as out: 
+        for i in range(len(train_sensids)):
+            for word in train_contexts[i]:
+                out.write(str(word) + "\t")       
+            out.write(train_sensids[i]+'\n')
 
-
-    with open(train_class_file, 'w') as out:
-        for sensid in train_sensids:
-            #print(sensid)
-            out.write(sensid + '\n')
+    
+ 
 
 
  

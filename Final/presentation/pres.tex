@@ -1,0 +1,98 @@
+\documentclass{beamer}
+\usetheme{Hannover}
+\usecolortheme{dolphin}
+
+\title{Final Project}
+\author{Zac Branson
+\and Jay Kaiser
+\and Mike Czerniakowski}
+
+
+\begin{document}
+%----------------------------------------------------------------
+\begin{frame}
+\titlepage % Print the title page as the first slide
+\end{frame}
+%----------------------------------------------------------------
+%Presentation Slides
+%----------------------------------------------------------------
+\section{Introduction}
+	\begin{frame}{Introduction}
+		\begin{block}{Classifier}
+			\begin{itemize}
+		\item We are using TIMBL because:
+		\item It lets us feed it strings: this makes maintaining word order of the immediate contexts much easier.
+		\item We expect a memory based classifier to perform well for this task because: why?
+			\end{itemize}
+		\end{block}
+	\end{frame}
+
+\section{Plan}
+	\begin{frame}{Preprocessing}
+		\begin{block}{Bare Words}
+			\begin{itemize}
+		\item Remove all punctuation that doesn't indicate the end of a sentence (i.e. everything but ". ? !")
+		\item make all capital letters lowercase
+			\end{itemize}
+		\end{block}	
+		\begin{block}{Lemmas}
+			\begin{itemize}
+		\item Do the same as above but:
+		\item Use NLTK's Romanian lemmatizer to lemmatize all words.
+		\item Given that Romanian is a highly inflectional language, this might have a profound effect (good and/or bad).
+		\item Good: greatly reduces sparsity of many words.  Bad: some of those suffixes might have been useful (case?, number?)
+		\item We'll test that empirically.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Features}
+		\begin{block}{bare Words and Lemmas}
+			\begin{itemize}
+			\item Same context features from HW3: add here (lemmas instead of plain words in the case of lemmas)
+			\item Second task is to incorporate PoS features: add tags of the same context words as independent features
+			\item Possibly try it with just PoS tags and no words 
+			\end{itemize}
+		\end{block}
+		\begin{block}{PoS Tags}
+			\begin{itemize}
+			\item add tags of the context words as independent features
+			\item possibly try it with just PoS tags and no words 
+			\item possibly try it with lemmas instead of words
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Parameters}
+		\begin{block}{TIMBL Options}
+			\begin{itemize}
+			\item Use a bash script to brute force parameter optimization
+			\item We optimize these parameters:  insert 
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Adding Unlabeled Data}
+		\begin{block}{Bootstrapping Approach}
+			\begin{itemize}
+			\item TIMBL outputs distances, which can be used as a measure of prediction confidence
+			\item Take the smallest n/10 of distances per class, add them to the training data, retrain the model
+			\item Iterate:adding the next n/10 smallest distances, potentially until there are none left.  
+			\item Profit.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Preliminary Results}
+		\begin{block}{Bare Words}
+			table of results
+		\end{block}
+		\begin{block}{Lemmas}
+			table of results
+		\end{block}
+		\begin{block}{Words + PoS Tags}
+			table of results
+		\end{block}
+	\end{frame}
+	
+\end{document}

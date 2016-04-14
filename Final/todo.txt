@@ -1,0 +1,3 @@
+adjust pos feature extraction script:
+need to account for the fact that the POS tags for punctiation won't be removed by the cleaning script.  need to find the tags for punctuation which needs to be removed.
+
