@@ -1,0 +1,1225 @@
+0__0_ID_DO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_ID_DO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_ID_DO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_ID_DO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_ID_GRO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_ID_GRO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_ID_GRO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_ID_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_ID_GxE_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_ID_GxE_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_ID_GxE_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_ID_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_ID_IGO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_ID_IGO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_ID_IGO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_ID_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_ID_IxE_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_ID_IxE_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_ID_IxE_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_ID_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_ID_SVO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_ID_SVO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_ID_SVO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_ID_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_ID_X2O_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_ID_X2O_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_ID_X2O_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_ID_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_IL_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__0_IL_DO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_IL_DO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+0__0_IL_DO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_IL_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__0_IL_GRO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_IL_GRO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+0__0_IL_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_IL_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__0_IL_GxE_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_IL_GxE_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+0__0_IL_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_IL_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__0_IL_IGO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_IL_IGO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+0__0_IL_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_IL_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__0_IL_IxE_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_IL_IxE_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+0__0_IL_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_IL_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__0_IL_SVO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_IL_SVO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+0__0_IL_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_IL_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__0_IL_X2O_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_IL_X2O_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+0__0_IL_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_Z_DO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_Z_DO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_Z_DO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_Z_DO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_Z_GRO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_Z_GRO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_Z_GRO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_Z_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_Z_GxE_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_Z_GxE_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_Z_GxE_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_Z_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_Z_IGO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_Z_IGO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_Z_IGO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_Z_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_Z_IxE_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_Z_IxE_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_Z_IxE_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_Z_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_Z_SVO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_Z_SVO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_Z_SVO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_Z_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__0_Z_X2O_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+0__0_Z_X2O_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+0__0_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__0_Z_X2O_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+0__0_Z_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+0__1_ID_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_ID_DO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_ID_DO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_ID_GRO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_ID_GRO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_ID_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_ID_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_ID_GxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_ID_GxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_ID_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_ID_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_ID_IGO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_ID_IGO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_ID_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_ID_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_ID_IxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_ID_IxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_ID_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_ID_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_ID_SVO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_ID_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_ID_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_ID_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_ID_X2O_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_ID_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_ID_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__1_IL_DO_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+0__1_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_IL_DO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__1_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__1_IL_GRO_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+0__1_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_IL_GRO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__1_IL_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_IL_GxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__1_IL_GxE_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+0__1_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_IL_GxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__1_IL_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_IL_IGO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__1_IL_IGO_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+0__1_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_IL_IGO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__1_IL_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_IL_IxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__1_IL_IxE_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+0__1_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_IL_IxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__1_IL_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_IL_SVO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__1_IL_SVO_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+0__1_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_IL_SVO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__1_IL_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_IL_X2O_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__1_IL_X2O_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+0__1_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_IL_X2O_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__1_IL_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_Z_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_Z_DO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_Z_DO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_Z_GRO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_Z_GRO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_Z_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_Z_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_Z_GxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_Z_GxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_Z_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_Z_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_Z_IGO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_Z_IGO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_Z_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_Z_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_Z_IxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_Z_IxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_Z_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_Z_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_Z_SVO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_Z_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_Z_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__1_Z_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__1_Z_X2O_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+0__1_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__1_Z_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__1_Z_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__2_ID_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_ID_DO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_ID_DO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_ID_DO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_ID_GRO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_ID_GRO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_ID_GRO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_ID_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_ID_GxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_ID_GxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_ID_GxE_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_ID_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_ID_IGO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_ID_IGO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_ID_IGO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_ID_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_ID_IxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_ID_IxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_ID_IxE_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_ID_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_ID_SVO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_ID_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_ID_SVO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_ID_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_ID_X2O_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_ID_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_ID_X2O_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__2_IL_DO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__2_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_IL_DO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__2_IL_DO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__2_IL_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__2_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_IL_GRO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__2_IL_GRO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_IL_GxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__2_IL_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__2_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_IL_GxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__2_IL_GxE_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_IL_IGO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__2_IL_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__2_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_IL_IGO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__2_IL_IGO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_IL_IxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__2_IL_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__2_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_IL_IxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__2_IL_IxE_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_IL_SVO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__2_IL_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__2_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_IL_SVO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__2_IL_SVO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_IL_X2O_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__2_IL_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__2_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_IL_X2O_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+0__2_IL_X2O_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_Z_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_Z_DO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_Z_DO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_Z_DO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_Z_GRO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_Z_GRO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_Z_GRO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_Z_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_Z_GxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_Z_GxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_Z_GxE_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_Z_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_Z_IGO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_Z_IGO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_Z_IGO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_Z_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_Z_IxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_Z_IxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_Z_IxE_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_Z_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_Z_SVO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_Z_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_Z_SVO_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__2_Z_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__2_Z_X2O_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+0__2_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__2_Z_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+0__2_Z_X2O_val_output.out:overall accuracy:        0.830882  (113/136), of which 17 exact matches 
+0__3_ID_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_ID_DO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_ID_DO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_ID_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_ID_GRO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_ID_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_ID_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_ID_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_ID_GxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_ID_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_ID_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_ID_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_ID_IGO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_ID_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_ID_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_ID_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_ID_IxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_ID_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_ID_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_ID_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_ID_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_ID_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_ID_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_ID_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_ID_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_ID_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__3_IL_DO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__3_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_IL_DO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__3_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__3_IL_GRO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__3_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_IL_GRO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__3_IL_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_IL_GxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__3_IL_GxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__3_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_IL_GxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__3_IL_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_IL_IGO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__3_IL_IGO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__3_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_IL_IGO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__3_IL_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_IL_IxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__3_IL_IxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__3_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_IL_IxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__3_IL_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_IL_SVO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__3_IL_SVO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__3_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_IL_SVO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__3_IL_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_IL_X2O_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__3_IL_X2O_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__3_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_IL_X2O_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__3_IL_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_Z_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_Z_DO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_Z_DO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_Z_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_Z_GRO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_Z_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_Z_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_Z_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_Z_GxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_Z_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_Z_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_Z_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_Z_IGO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_Z_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_Z_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_Z_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_Z_IxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_Z_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_Z_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_Z_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_Z_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_Z_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__3_Z_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__3_Z_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__3_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__3_Z_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__3_Z_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_ID_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_ID_DO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_ID_DO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_ID_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_ID_GRO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_ID_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_ID_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_ID_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_ID_GxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_ID_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_ID_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_ID_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_ID_IGO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_ID_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_ID_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_ID_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_ID_IxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_ID_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_ID_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_ID_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_ID_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_ID_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_ID_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_ID_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_ID_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_ID_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__4_IL_DO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__4_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_IL_DO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__4_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__4_IL_GRO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__4_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_IL_GRO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__4_IL_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_IL_GxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__4_IL_GxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__4_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_IL_GxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__4_IL_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_IL_IGO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__4_IL_IGO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__4_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_IL_IGO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__4_IL_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_IL_IxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__4_IL_IxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__4_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_IL_IxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__4_IL_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_IL_SVO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__4_IL_SVO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__4_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_IL_SVO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__4_IL_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_IL_X2O_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+0__4_IL_X2O_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+0__4_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_IL_X2O_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+0__4_IL_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_Z_DO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_Z_DO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_Z_DO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_Z_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_Z_GRO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_Z_GRO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_Z_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_Z_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_Z_GxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_Z_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_Z_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_Z_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_Z_IGO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_Z_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_Z_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_Z_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_Z_IxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_Z_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_Z_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_Z_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_Z_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_Z_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+0__4_Z_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+0__4_Z_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+0__4_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+0__4_Z_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+0__4_Z_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+1__0_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89)
+1__0_Z_DO_citi_output.out:overall accuracy:        0.829630  (112/135)
+1__0_Z_DO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__0_Z_DO_oficial_output.out:overall accuracy:        0.515464  (50/97)
+1__0_Z_DO_val_output.out:overall accuracy:        0.801471  (109/136)
+1__0_Z_GRO_accent_output.out:overall accuracy:        0.786517  (70/89)
+1__0_Z_GRO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__0_Z_GRO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__0_Z_GRO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__0_Z_GRO_val_output.out:overall accuracy:        0.823529  (112/136)
+1__0_Z_GxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__0_Z_GxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__0_Z_GxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__0_Z_GxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__0_Z_GxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__0_Z_IGO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__0_Z_IGO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__0_Z_IGO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__0_Z_IGO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__0_Z_IGO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__0_Z_IxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__0_Z_IxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__0_Z_IxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__0_Z_IxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__0_Z_IxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__0_Z_SVO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__0_Z_SVO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__0_Z_SVO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__0_Z_SVO_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__0_Z_SVO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__0_Z_X2O_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__0_Z_X2O_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__0_Z_X2O_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__0_Z_X2O_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__0_Z_X2O_val_output.out:overall accuracy:        0.794118  (108/136)
+1__1_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89)
+1__1_Z_DO_citi_output.out:overall accuracy:        0.829630  (112/135)
+1__1_Z_DO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__1_Z_DO_oficial_output.out:overall accuracy:        0.515464  (50/97)
+1__1_Z_DO_val_output.out:overall accuracy:        0.801471  (109/136)
+1__1_Z_GRO_accent_output.out:overall accuracy:        0.786517  (70/89)
+1__1_Z_GRO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__1_Z_GRO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__1_Z_GRO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__1_Z_GRO_val_output.out:overall accuracy:        0.823529  (112/136)
+1__1_Z_GxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__1_Z_GxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__1_Z_GxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__1_Z_GxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__1_Z_GxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__1_Z_IGO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__1_Z_IGO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__1_Z_IGO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__1_Z_IGO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__1_Z_IGO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__1_Z_IxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__1_Z_IxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__1_Z_IxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__1_Z_IxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__1_Z_IxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__1_Z_SVO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__1_Z_SVO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__1_Z_SVO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__1_Z_SVO_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__1_Z_SVO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__1_Z_X2O_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__1_Z_X2O_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__1_Z_X2O_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__1_Z_X2O_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__1_Z_X2O_val_output.out:overall accuracy:        0.794118  (108/136)
+1__2_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89)
+1__2_Z_DO_citi_output.out:overall accuracy:        0.829630  (112/135)
+1__2_Z_DO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__2_Z_DO_oficial_output.out:overall accuracy:        0.515464  (50/97)
+1__2_Z_DO_val_output.out:overall accuracy:        0.801471  (109/136)
+1__2_Z_GRO_accent_output.out:overall accuracy:        0.786517  (70/89)
+1__2_Z_GRO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__2_Z_GRO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__2_Z_GRO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__2_Z_GRO_val_output.out:overall accuracy:        0.823529  (112/136)
+1__2_Z_GxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__2_Z_GxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__2_Z_GxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__2_Z_GxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__2_Z_GxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__2_Z_IGO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__2_Z_IGO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__2_Z_IGO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__2_Z_IGO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__2_Z_IGO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__2_Z_IxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__2_Z_IxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__2_Z_IxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__2_Z_IxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__2_Z_IxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__2_Z_SVO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__2_Z_SVO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__2_Z_SVO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__2_Z_SVO_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__2_Z_SVO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__2_Z_X2O_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__2_Z_X2O_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__2_Z_X2O_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__2_Z_X2O_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__2_Z_X2O_val_output.out:overall accuracy:        0.794118  (108/136)
+1__3_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89)
+1__3_Z_DO_citi_output.out:overall accuracy:        0.829630  (112/135)
+1__3_Z_DO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__3_Z_DO_oficial_output.out:overall accuracy:        0.515464  (50/97)
+1__3_Z_DO_val_output.out:overall accuracy:        0.801471  (109/136)
+1__3_Z_GRO_accent_output.out:overall accuracy:        0.786517  (70/89)
+1__3_Z_GRO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__3_Z_GRO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__3_Z_GRO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__3_Z_GRO_val_output.out:overall accuracy:        0.823529  (112/136)
+1__3_Z_GxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__3_Z_GxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__3_Z_GxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__3_Z_GxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__3_Z_GxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__3_Z_IGO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__3_Z_IGO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__3_Z_IGO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__3_Z_IGO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__3_Z_IGO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__3_Z_IxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__3_Z_IxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__3_Z_IxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__3_Z_IxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__3_Z_IxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__3_Z_SVO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__3_Z_SVO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__3_Z_SVO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__3_Z_SVO_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__3_Z_SVO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__3_Z_X2O_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__3_Z_X2O_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__3_Z_X2O_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__3_Z_X2O_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__3_Z_X2O_val_output.out:overall accuracy:        0.794118  (108/136)
+1__4_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89)
+1__4_Z_DO_citi_output.out:overall accuracy:        0.829630  (112/135)
+1__4_Z_DO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__4_Z_DO_oficial_output.out:overall accuracy:        0.515464  (50/97)
+1__4_Z_DO_val_output.out:overall accuracy:        0.801471  (109/136)
+1__4_Z_GRO_accent_output.out:overall accuracy:        0.786517  (70/89)
+1__4_Z_GRO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__4_Z_GRO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__4_Z_GRO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__4_Z_GRO_val_output.out:overall accuracy:        0.823529  (112/136)
+1__4_Z_GxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__4_Z_GxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__4_Z_GxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__4_Z_GxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__4_Z_GxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__4_Z_IGO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__4_Z_IGO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__4_Z_IGO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__4_Z_IGO_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__4_Z_IGO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__4_Z_IxE_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__4_Z_IxE_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__4_Z_IxE_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__4_Z_IxE_oficial_output.out:overall accuracy:        0.484536  (47/97)
+1__4_Z_IxE_val_output.out:overall accuracy:        0.794118  (108/136)
+1__4_Z_SVO_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__4_Z_SVO_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__4_Z_SVO_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__4_Z_SVO_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__4_Z_SVO_val_output.out:overall accuracy:        0.794118  (108/136)
+1__4_Z_X2O_accent_output.out:overall accuracy:        0.775281  (69/89)
+1__4_Z_X2O_citi_output.out:overall accuracy:        0.822222  (111/135)
+1__4_Z_X2O_delfin_output.out:overall accuracy:        1.000000  (15/15)
+1__4_Z_X2O_oficial_output.out:overall accuracy:        0.505155  (49/97)
+1__4_Z_X2O_val_output.out:overall accuracy:        0.794118  (108/136)
+4__0_ID_DO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+4__0_ID_DO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+4__0_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_ID_DO_oficial_output.out:overall accuracy:        0.546392  (53/97), of which 1 exact matches 
+4__0_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__0_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__0_ID_GRO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_ID_GRO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_ID_GRO_val_output.out:overall accuracy:        0.852941  (116/136), of which 17 exact matches 
+4__0_ID_GxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_ID_GxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_ID_GxE_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_ID_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_ID_IGO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_ID_IGO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_ID_IGO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_ID_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_ID_IxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_ID_IxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_ID_IxE_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_ID_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_ID_SVO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_ID_SVO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_ID_SVO_oficial_output.out:overall accuracy:        0.639175  (62/97), of which 1 exact matches 
+4__0_ID_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_ID_X2O_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_ID_X2O_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_ID_X2O_oficial_output.out:overall accuracy:        0.639175  (62/97), of which 1 exact matches 
+4__0_ID_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_IL_DO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__0_IL_DO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+4__0_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_IL_DO_oficial_output.out:overall accuracy:        0.546392  (53/97), of which 1 exact matches 
+4__0_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__0_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_IL_GRO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_IL_GRO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__0_IL_GRO_val_output.out:overall accuracy:        0.852941  (116/136), of which 17 exact matches 
+4__0_IL_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__0_IL_GxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_IL_GxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__0_IL_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_IL_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__0_IL_IGO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_IL_IGO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__0_IL_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_IL_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__0_IL_IxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_IL_IxE_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__0_IL_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_IL_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__0_IL_SVO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_IL_SVO_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+4__0_IL_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_IL_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__0_IL_X2O_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_IL_X2O_oficial_output.out:overall accuracy:        0.628866  (61/97), of which 1 exact matches 
+4__0_IL_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_Z_DO_accent_output.out:overall accuracy:        0.842697  (75/89), of which 5 exact matches 
+4__0_Z_DO_citi_output.out:overall accuracy:        0.792593  (107/135), of which 8 exact matches 
+4__0_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_Z_DO_oficial_output.out:overall accuracy:        0.546392  (53/97), of which 1 exact matches 
+4__0_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__0_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__0_Z_GRO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_Z_GRO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_Z_GRO_val_output.out:overall accuracy:        0.852941  (116/136), of which 17 exact matches 
+4__0_Z_GxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_Z_GxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_Z_GxE_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_Z_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_Z_IGO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_Z_IGO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_Z_IGO_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_Z_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_Z_IxE_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_Z_IxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_Z_IxE_oficial_output.out:overall accuracy:        0.618557  (60/97), of which 1 exact matches 
+4__0_Z_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_Z_SVO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_Z_SVO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_Z_SVO_oficial_output.out:overall accuracy:        0.639175  (62/97), of which 1 exact matches 
+4__0_Z_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__0_Z_X2O_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__0_Z_X2O_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__0_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__0_Z_X2O_oficial_output.out:overall accuracy:        0.639175  (62/97), of which 1 exact matches 
+4__0_Z_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_ID_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__1_ID_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__1_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_ID_DO_oficial_output.out:overall accuracy:        0.536082  (52/97), of which 1 exact matches 
+4__1_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__1_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__1_ID_GRO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_ID_GRO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_ID_GRO_val_output.out:overall accuracy:        0.852941  (116/136), of which 17 exact matches 
+4__1_ID_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_ID_GxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_ID_GxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_ID_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_ID_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_ID_IGO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_ID_IGO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_ID_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_ID_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_ID_IxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_ID_IxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_ID_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_ID_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_ID_SVO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_ID_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__1_ID_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_ID_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_ID_X2O_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_ID_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__1_ID_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__1_IL_DO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__1_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_IL_DO_oficial_output.out:overall accuracy:        0.536082  (52/97), of which 1 exact matches 
+4__1_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__1_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__1_IL_GRO_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+4__1_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_IL_GRO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__1_IL_GRO_val_output.out:overall accuracy:        0.852941  (116/136), of which 17 exact matches 
+4__1_IL_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__1_IL_GxE_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+4__1_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_IL_GxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__1_IL_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_IL_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__1_IL_IGO_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+4__1_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_IL_IGO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__1_IL_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_IL_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__1_IL_IxE_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+4__1_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_IL_IxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__1_IL_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_IL_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__1_IL_SVO_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+4__1_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_IL_SVO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_IL_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_IL_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__1_IL_X2O_citi_output.out:overall accuracy:        0.748148  (101/135), of which 8 exact matches 
+4__1_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_IL_X2O_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_IL_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__1_Z_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__1_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_Z_DO_oficial_output.out:overall accuracy:        0.536082  (52/97), of which 1 exact matches 
+4__1_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__1_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__1_Z_GRO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_Z_GRO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_Z_GRO_val_output.out:overall accuracy:        0.852941  (116/136), of which 17 exact matches 
+4__1_Z_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_Z_GxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_Z_GxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_Z_GxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_Z_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_Z_IGO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_Z_IGO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_Z_IGO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_Z_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_Z_IxE_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_Z_IxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__1_Z_IxE_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_Z_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_Z_SVO_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_Z_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__1_Z_SVO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__1_Z_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__1_Z_X2O_citi_output.out:overall accuracy:        0.755556  (102/135), of which 8 exact matches 
+4__1_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__1_Z_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__1_Z_X2O_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__2_ID_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__2_ID_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__2_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_ID_DO_oficial_output.out:overall accuracy:        0.536082  (52/97), of which 1 exact matches 
+4__2_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__2_ID_GRO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_ID_GRO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_ID_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__2_ID_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_ID_GxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_ID_GxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_ID_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_ID_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_ID_IGO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_ID_IGO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_ID_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_ID_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_ID_IxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_ID_IxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_ID_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_ID_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_ID_SVO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_ID_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__2_ID_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_ID_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_ID_X2O_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_ID_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__2_ID_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__2_IL_DO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_IL_DO_oficial_output.out:overall accuracy:        0.536082  (52/97), of which 1 exact matches 
+4__2_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__2_IL_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__2_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_IL_GRO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__2_IL_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__2_IL_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__2_IL_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__2_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_IL_GxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__2_IL_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_IL_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__2_IL_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__2_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_IL_IGO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__2_IL_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_IL_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__2_IL_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__2_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_IL_IxE_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__2_IL_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_IL_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__2_IL_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__2_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_IL_SVO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_IL_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_IL_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__2_IL_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__2_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_IL_X2O_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_IL_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__2_Z_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__2_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_Z_DO_oficial_output.out:overall accuracy:        0.536082  (52/97), of which 1 exact matches 
+4__2_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__2_Z_GRO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_Z_GRO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_Z_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__2_Z_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_Z_GxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_Z_GxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_Z_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_Z_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_Z_IGO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_Z_IGO_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_Z_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_Z_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_Z_IxE_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_Z_IxE_oficial_output.out:overall accuracy:        0.597938  (58/97), of which 1 exact matches 
+4__2_Z_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_Z_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_Z_SVO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_Z_SVO_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__2_Z_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__2_Z_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__2_Z_X2O_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__2_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__2_Z_X2O_oficial_output.out:overall accuracy:        0.608247  (59/97), of which 1 exact matches 
+4__2_Z_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_ID_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__3_ID_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__3_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_ID_DO_oficial_output.out:overall accuracy:        0.515464  (50/97), of which 1 exact matches 
+4__3_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__3_ID_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_ID_GRO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_ID_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__3_ID_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_ID_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_ID_GxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_ID_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_ID_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_ID_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_ID_IGO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_ID_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_ID_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_ID_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_ID_IxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_ID_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_ID_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_ID_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_ID_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__3_ID_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_ID_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_ID_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_ID_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__3_ID_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__3_IL_DO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__3_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_IL_DO_oficial_output.out:overall accuracy:        0.515464  (50/97), of which 1 exact matches 
+4__3_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__3_IL_GRO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__3_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_IL_GRO_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__3_IL_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__3_IL_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__3_IL_GxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__3_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_IL_GxE_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__3_IL_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_IL_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__3_IL_IGO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__3_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_IL_IGO_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__3_IL_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_IL_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__3_IL_IxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__3_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_IL_IxE_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__3_IL_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_IL_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__3_IL_SVO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__3_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_IL_SVO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_IL_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_IL_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__3_IL_X2O_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__3_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_IL_X2O_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_IL_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__3_Z_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__3_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_Z_DO_oficial_output.out:overall accuracy:        0.515464  (50/97), of which 1 exact matches 
+4__3_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__3_Z_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_Z_GRO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_Z_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__3_Z_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_Z_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_Z_GxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_Z_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_Z_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_Z_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_Z_IGO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_Z_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_Z_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_Z_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_Z_IxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__3_Z_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_Z_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_Z_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_Z_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__3_Z_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__3_Z_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__3_Z_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__3_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__3_Z_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__3_Z_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_ID_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__4_ID_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__4_ID_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_ID_DO_oficial_output.out:overall accuracy:        0.515464  (50/97), of which 1 exact matches 
+4__4_ID_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_ID_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__4_ID_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_ID_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_ID_GRO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_ID_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__4_ID_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_ID_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_ID_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_ID_GxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_ID_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_ID_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_ID_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_ID_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_ID_IGO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_ID_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_ID_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_ID_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_ID_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_ID_IxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_ID_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_ID_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_ID_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_ID_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_ID_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__4_ID_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_ID_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_ID_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_ID_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_ID_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__4_ID_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_IL_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__4_IL_DO_citi_output.out:overall accuracy:        0.777778  (105/135), of which 8 exact matches 
+4__4_IL_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_IL_DO_oficial_output.out:overall accuracy:        0.515464  (50/97), of which 1 exact matches 
+4__4_IL_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_IL_GRO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__4_IL_GRO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__4_IL_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_IL_GRO_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__4_IL_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__4_IL_GxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__4_IL_GxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__4_IL_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_IL_GxE_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__4_IL_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_IL_IGO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__4_IL_IGO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__4_IL_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_IL_IGO_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__4_IL_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_IL_IxE_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__4_IL_IxE_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__4_IL_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_IL_IxE_oficial_output.out:overall accuracy:        0.567010  (55/97), of which 1 exact matches 
+4__4_IL_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_IL_SVO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__4_IL_SVO_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__4_IL_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_IL_SVO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_IL_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_IL_X2O_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__4_IL_X2O_citi_output.out:overall accuracy:        0.762963  (103/135), of which 8 exact matches 
+4__4_IL_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_IL_X2O_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_IL_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_Z_DO_accent_output.out:overall accuracy:        0.831461  (74/89), of which 5 exact matches 
+4__4_Z_DO_citi_output.out:overall accuracy:        0.785185  (106/135), of which 8 exact matches 
+4__4_Z_DO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_Z_DO_oficial_output.out:overall accuracy:        0.515464  (50/97), of which 1 exact matches 
+4__4_Z_DO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_Z_GRO_accent_output.out:overall accuracy:        0.820225  (73/89), of which 5 exact matches 
+4__4_Z_GRO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_Z_GRO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_Z_GRO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_Z_GRO_val_output.out:overall accuracy:        0.845588  (115/136), of which 17 exact matches 
+4__4_Z_GxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_Z_GxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_Z_GxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_Z_GxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_Z_GxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_Z_IGO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_Z_IGO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_Z_IGO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_Z_IGO_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_Z_IGO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_Z_IxE_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_Z_IxE_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_Z_IxE_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_Z_IxE_oficial_output.out:overall accuracy:        0.577320  (56/97), of which 1 exact matches 
+4__4_Z_IxE_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_Z_SVO_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_Z_SVO_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_Z_SVO_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_Z_SVO_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__4_Z_SVO_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 
+4__4_Z_X2O_accent_output.out:overall accuracy:        0.808989  (72/89), of which 5 exact matches 
+4__4_Z_X2O_citi_output.out:overall accuracy:        0.770370  (104/135), of which 8 exact matches 
+4__4_Z_X2O_delfin_output.out:overall accuracy:        0.933333  (14/15)
+4__4_Z_X2O_oficial_output.out:overall accuracy:        0.587629  (57/97), of which 1 exact matches 
+4__4_Z_X2O_val_output.out:overall accuracy:        0.838235  (114/136), of which 17 exact matches 

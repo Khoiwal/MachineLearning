@@ -1,0 +1,75 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Aha \bgroup et al.\egroup }1991]{aha1991instance}
+David~W Aha, Dennis Kibler, and Marc~K Albert.
+\newblock 1991.
+\newblock Instance-based learning algorithms.
+\newblock {\em Machine learning}, 6(1):37--66.
+
+\bibitem[\protect\citename{Daelemans and Hoste}2002]{daelemans2002evaluation}
+Walter Daelemans and V{\'e}ronique Hoste.
+\newblock 2002.
+\newblock Evaluation of machine learning methods for natural language
+  processing tasks.
+\newblock In {\em 3rd International conference on Language Resources and
+  Evaluation (LREC 2002)}. European Language Resources Association (ELRA).
+
+\bibitem[\protect\citename{Daelemans \bgroup et al.\egroup
+  }2003]{daelemans2003combined}
+Walter Daelemans, V{\'e}ronique Hoste, Fien De~Meulder, and Bart Naudts.
+\newblock 2003.
+\newblock Combined optimization of feature selection and algorithm parameters
+  in machine learning of language.
+\newblock In {\em ECML}, pages 84--95. Springer.
+
+\bibitem[\protect\citename{Daelemans \bgroup et al.\egroup
+  }2004]{daelemans2004timbl}
+Walter Daelemans, Jakub Zavrel, Kurt van~der Sloot, and Antal Van~den Bosch.
+\newblock 2004.
+\newblock Timbl: Tilburg memory-based learner.
+\newblock {\em Tilburg University}.
+
+\bibitem[\protect\citename{Dinu and K{\"u}bler}2007]{dinu2007sometimes}
+Georgiana Dinu and Sandra K{\"u}bler.
+\newblock 2007.
+\newblock Sometimes less is more: Romanian word sense disambiguation revisited.
+\newblock In {\em Proceedings of the International Conference on Recent
+  Advances in Natural Language Processing, RANLP}.
+
+\bibitem[\protect\citename{K{\"u}bler and Zhekova}2009]{kubler2009semi}
+Sandra K{\"u}bler and Desislava Zhekova.
+\newblock 2009.
+\newblock Semi-supervised learning for word sense disambiguation: Quality vs.
+  quantity.
+\newblock In {\em RANLP}, pages 197--202.
+
+\bibitem[\protect\citename{Le \bgroup et al.\egroup }2006]{le2006investigating}
+Anh-Cuong Le, Akira Shimazu, and Le-Minh Nguyen.
+\newblock 2006.
+\newblock Investigating problems of semi-supervised learning for word sense
+  disambiguation.
+\newblock In {\em Computer Processing of Oriental Languages. Beyond the Orient:
+  The Research Challenges Ahead}, pages 482--489. Springer.
+
+\bibitem[\protect\citename{Mihalcea \bgroup et al.\egroup
+  }2004]{mihalcea2004evaluation}
+Rada Mihalcea, Vivi Nastase, Timothy~Anatolievich Chklovski, Doina Tatar, Dan
+  Tufis, and Florentina~T Hristea.
+\newblock 2004.
+\newblock An evaluation exercise for romanian word sense disambiguation.
+
+\bibitem[\protect\citename{Mooney}1996]{mooney1996comparative}
+Raymond~J Mooney.
+\newblock 1996.
+\newblock Comparative experiments on disambiguating word senses: An
+  illustration of the role of bias in machine learning.
+\newblock {\em arXiv preprint cmp-lg/9612001}.
+
+\bibitem[\protect\citename{Veenstra \bgroup et al.\egroup
+  }2000]{veenstra2000memory}
+Jorn Veenstra, Antal Van~den Bosch, Sabine Buchholz, Walter Daelemans, et~al.
+\newblock 2000.
+\newblock Memory-based word sense disambiguation.
+\newblock {\em Computers and the Humanities}, 34(1-2):171--177.
+
+\end{thebibliography}

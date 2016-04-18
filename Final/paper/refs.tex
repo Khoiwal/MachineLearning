@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage{acl2014}
+\bibliographystyle{acl}
+
+
+\title{665: Final Project}
+\author{Branson, Zac
+\and Czerniakowski Mike
+\and Kaiser, Jay}
+
+\begin{document}
+
+\section{Related Works}
+Memory based learning has been shown to be an effective choice for word sense disambiguation tasks.\cite{mooney1996comparative}  \newcite{veenstra2000memory} argues that, because memory-based learning does not require linguistic knowledge but only training examples, it is well suited for domains where “large numbers of features and sparseness of data interact to make life difficult for many other machine-learning methods”.\footnote{This generalization is particularly true of the SENSEVAL-3 Word Sense Disambiguation Task, which involves disambiguating word-senses using a training set containing as few as 97 and at most 257 examples.}  In a comparative study of various supervised learning algorithms, an unoptimized version of the k-nearest neighbors algorithm achieved results competitive with other, more computationally complex algorithms.\cite{mooney1996comparative}\footnote{As a memory based method, the k-nearest neighbor algorithm has a training time of 0, compared to the non-linear training times of Naive-Bayes, Perceptron and other types of classifiers.  Additionally, the testing time is linear, which makes this algorithm very desirable with respect to time complexity. \cite{mooney1996comparative}}  \\
+
+On the other hand, memory based algorithms come with significant storage costs.  To address this, the IB1, IB2, and IB3 algorithms were developed extend the k-nearest neighbor algorithm to reduce storage requirements, with a small or even zero loss of classification accuracy. \cite{aha1991instance}\\   
+
+The Tilburg Memory-Based Learner (TiMBL) provides an open-source implementation of IB1 and IB2 learning algorithms, as well as IGTREE, a decision tree based optimization and TRIBL and TRIBL2, hybrids of IB1 and IGTREE and IB2 and IGTREE respectively. \cite{daelemans2004timbl}  In addition to the algorithms, TiMBL allows for adjusting various parameters, including but no limited to distance metric, feature weighting, number of neighbors, and tree-order.\footnote{Tree-order is, of course, only a parameter for the IGTREE, TRIBL, and TRIBL2 algorithms.}\\
+ 
+As it has been demonstrated that both parameter optimization \cite{daelemans2002evaluation} and feature optimization \cite{daelemans2003combined} can result in a higher variation in results than differences between algorithms, it is therefore necessary to optimize features and parameters for each task.  For this reason, we evaluate the performance of TiMBL with various features sets, and optimize over various parameters using brute-force method.\footnote{Full details are discussed in the methods section.}\\
+
+Although initial results \cite{mihalcea2004evaluation} suggested that k-nearest neighbor algorithms underperformed others for SENSEVAL-3's Romanian Word Sense Disambiguation task, \newcite{dinu2007sometimes} demonstrated that a narrower selection of features provided greater accuracy in WSD than the methods used during the SENSEVAL-3 competition. \\
+
+In has additionally been shown that TiMBL, with optimized features and parameters, can be used to extend the training corpus with unlabelled data. \cite{kubler2009semi}  This semi-supervised approach is particularly useful for WSD, due to the relative scarcity and questionable quality of human annotated sense classification.  \newcite{le2006investigating} outlines the problems for using semi-supervised approaches to WSD, and presents solution and a bootstrapping algorithm which informs our approach.
+
+
+\bibliography{bib}
+\end{document}

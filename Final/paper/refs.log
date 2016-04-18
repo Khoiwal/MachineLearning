@@ -1,0 +1,161 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.16)  18 APR 2016 10:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**refs.tex
+(./refs.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./acl2014.sty
+Conference Style for ACL 2014 -- released October 2, 2013
+\titlebox=\skip43
+) (./refs.aux)
+\openout1 = `refs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+
+Underfull \hbox (badness 4132) in paragraph at lines 14--14
+\OT1/cmr/m/n/9 SENSEVAL-3 Word Sense Dis-am-bigua-tion Task,
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 14--15
+\OT1/cmr/m/n/10 re-quire lin-guis-tic knowl-edge but only train-ing
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 14--15
+\OT1/cmr/m/n/10 achieved re-sults com-pet-i-tive with other, more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+\OT1/cmr/m/n/10 com-pu-ta-tion-ally com-plex al-go-rithms.(Mooney,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 20--21
+\OT1/cmr/m/n/10 dif-fer-ences be-tween al-go-rithms, it is there-fore
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 20--21
+\OT1/cmr/m/n/10 per-for-mance of TiMBL with var-i-ous fea-tures
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 sug-gested that k-nearest neigh-bor al-go-rithms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+(./refs.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 19--24
+[]\OT1/cmr/m/n/10 Walter Daele-mans, V^^Seronique Hoste, Fien
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 47--53
+[]\OT1/cmr/m/n/10 Anh-Cuong Le, Akira Shi-mazu, and Le-Minh
+ []
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 1694) in paragraph at lines 56--60
+[]\OT1/cmr/m/n/10 Rada Mi-hal-cea, Vivi Nas-tase, Tim-o-thy Ana-
+ []
+
+) [2
+
+] (./refs.aux) ) 
+Here is how much of TeX's memory you used:
+ 267 strings out of 493304
+ 2850 string characters out of 6139870
+ 60880 words of memory out of 5000000
+ 3796 multiletter control sequences out of 15000+600000
+ 6414 words of font info for 23 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 24i,8n,19p,1263b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on refs.pdf (2 pages, 91878 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

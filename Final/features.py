@@ -17,8 +17,8 @@ def cleanWords(words):
     for word in words:
         if word:          
             word = "".join([ch for ch in word if ch not in punct]).lower()
-            #lemmatize = stem.snowball.RomanianStemmer(ignore_stopwords=False)
-            #word = lemmatize.stem(word)
+            lemmatize = stem.snowball.RomanianStemmer(ignore_stopwords=False)
+            word = lemmatize.stem(word)
         if not word: word = "X"
         clean_lemmas.append(word)
     return(clean_lemmas)
@@ -56,9 +56,9 @@ def parse_file(infile,lex):
             if train:
                 if line.startswith("<answer"):
                     #print(line)
-                    start = -14 - (len(lex) -2)
+                    start = 43 + len(lex)
                     sensid = line[start:-4]
-
+                    print(sensid)
                     if sensid[-1] == 'U':
                         sensid = "U"
 
@@ -136,8 +136,8 @@ for lex in lexes:
     test_contexts, test_sensids = parse_file(testin, lex)
     train_contexts, train_sensids = parse_file(trainin, lex)
 
-    test_feature_file = lex + ".words.test.tsv"
-    train_feature_file = lex + ".words.train.tsv"
+    test_feature_file = lex + ".lemmas.test.tsv"
+    train_feature_file = lex + ".lemmas.train.tsv"
     
     with open(test_feature_file, 'w') as out: 
         for i in range(0,len(test_sensids)):

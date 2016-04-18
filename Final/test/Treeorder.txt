@@ -1,0 +1,13 @@
+DO
+GRO
+IGO
+1/V
+G/V
+I/V
+X2O
+X/V
+SVO
+S/V
+GxE
+IxE
+1/S
